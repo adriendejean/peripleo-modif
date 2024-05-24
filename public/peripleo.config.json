@@ -3,16 +3,19 @@
   "map_style": "https://api.maptiler.com/maps/outdoor/style.json?key=cqqmcLw28krG9Fl7V3kg",
   "data": [
     {
+      "name": "grammateus",
       "format": "LINKED_PLACES",
-      "src": "./data/byzantine.lp.json"
+      "src": "./data/phase1.lp.json"
     }
   ],
   "facets": [
-      {"name": "provenance", "path": ["properties", "provenance"]},
+      {"name": "nome", "path": ["properties", "nome"]},
       {"name": "region", "path": ["properties", "region"]},
+      {"name": "provenance", "path": ["properties", "provenance"]},
       {"name": "type", "path": ["properties", "type"]},
       {"name": "subtype", "path": ["properties", "subtype"]},
-      {"name": "variation", "path": ["properties", "variation"]}
+      {"name": "variation", "path": ["properties", "variation"]},
+      {"name": "centuries", "path": ["properties", "centuries"]}
   ]
 }
 

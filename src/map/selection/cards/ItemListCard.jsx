@@ -83,7 +83,7 @@ const InternalLink = props => {
     <div onClick={() => props.onSelect(node)}>
       <div className="p6o-internal-link-meta">
         <h3>{node.title}</h3>
-        <h4>{source}</h4>
+        <h4>{node.properties.label}</h4>
         <p className="p6o-node-types">
           {getTypes(node).join(', ')}
         </p>
