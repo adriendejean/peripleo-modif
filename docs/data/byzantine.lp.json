@@ -12,10 +12,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0301"
+              "in": "0301-01-01"
             },
             "end": {
-              "in": "0400"
+              "in": "0400-12-31"
             }
           }
         ]
@@ -30,16 +30,17 @@
       "properties": {
         "title": "SB 16 12614",
         "origPlace": "unbekannt",
-        "precision": "mid",
+        "origDate": "[0301-01-01/0400-12-31]",
+        "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          "4",
-          "5"
+          4,
+          5
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
-        "label": "Unknown"
+        "coord_name": "Unknown"
       },
       "@id": "https://grammateus.unige.ch/document/32816"
     },
@@ -52,10 +53,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0301"
+              "in": "0301-01-01"
             },
             "end": {
-              "in": "0400"
+              "in": "0400-12-31"
             }
           }
         ]
@@ -70,18 +71,19 @@
       "properties": {
         "title": "P.Oxy. 48 3398",
         "origPlace": "Oxyrhynchos",
-        "precision": "mid",
+        "origDate": "[0301-01-01/0400-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "4",
-          "5"
+          4,
+          5
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/33711"
     },
@@ -112,10 +114,11 @@
       "properties": {
         "title": "PSI 7 784",
         "origPlace": "Oxyrhynchos",
-        "precision": "high",
+        "origDate": "0362-01-18",
+        "precision": "High",
         "provenance": "located",
         "centuries": [
-          "4"
+          4
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -123,7 +126,7 @@
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/17664"
     },
@@ -136,10 +139,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0700"
+              "in": "0700-12-31"
             }
           }
         ]
@@ -154,16 +157,17 @@
       "properties": {
         "title": "APF 63 167",
         "origPlace": "unbekannt",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0700-12-31]",
+        "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          "6",
-          "7",
-          "8"
+          6,
+          7,
+          8
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
-        "label": "Unknown"
+        "coord_name": "Unknown"
       },
       "@id": "https://grammateus.unige.ch/document/704796"
     },
@@ -194,16 +198,17 @@
       "properties": {
         "title": "SB 28 16884",
         "origPlace": "Oxyrhynchites",
-        "precision": "high",
+        "origDate": "0473-09-08",
+        "precision": "High",
         "provenance": "located",
         "centuries": [
-          "5"
+          5
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "label": "Oxyrhynchites"
+        "coord_name": "Oxyrhynchites"
       },
       "@id": "https://grammateus.unige.ch/document/50665"
     },
@@ -234,16 +239,17 @@
       "properties": {
         "title": "SB 28 16883",
         "origPlace": "Oxyrhynchites",
-        "precision": "high",
+        "origDate": "0473-05-16",
+        "precision": "High",
         "provenance": "located",
         "centuries": [
-          "5"
+          5
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "label": "Oxyrhynchites"
+        "coord_name": "Oxyrhynchites"
       },
       "@id": "https://grammateus.unige.ch/document/50664"
     },
@@ -256,10 +262,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -274,18 +280,19 @@
       "properties": {
         "title": "SB 20 14987",
         "origPlace": "Oxyrhynchos",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/38527"
     },
@@ -298,10 +305,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0401"
+              "in": "0401-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -316,19 +323,20 @@
       "properties": {
         "title": "P.Oxy. 16 1836",
         "origPlace": "Oxyrhynchos",
-        "precision": "mid",
+        "origDate": "[0401-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "5",
-          "6",
-          "7"
+          5,
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/35598"
     },
@@ -341,10 +349,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0301"
+              "in": "0301-01-01"
             },
             "end": {
-              "in": "0500"
+              "in": "0500-12-31"
             }
           }
         ]
@@ -359,19 +367,20 @@
       "properties": {
         "title": "P.Gen. 4 172",
         "origPlace": "Philadelphia (Arsinoites)",
-        "precision": "mid",
+        "origDate": "[0301-01-01/0500-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "4",
-          "5",
-          "6"
+          4,
+          5,
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
         "settlement": "Philadelphia",
-        "label": "Philadelphia"
+        "coord_name": "Philadelphia"
       },
       "@id": "https://grammateus.unige.ch/document/34876"
     },
@@ -384,10 +393,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0401"
+              "in": "0401-01-01"
             },
             "end": {
-              "in": "0500"
+              "in": "0500-12-31"
             }
           }
         ]
@@ -402,15 +411,16 @@
       "properties": {
         "title": "P.Heid. 4 333",
         "origPlace": "unbekannt",
-        "precision": "mid",
+        "origDate": "[0401-01-01/0500-12-31]",
+        "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          "5",
-          "6"
+          5,
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
-        "label": "Unknown"
+        "coord_name": "Unknown"
       },
       "@id": "https://grammateus.unige.ch/document/35413"
     },
@@ -423,10 +433,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0401"
+              "in": "0401-01-01"
             },
             "end": {
-              "in": "0500"
+              "in": "0500-12-31"
             }
           }
         ]
@@ -441,18 +451,19 @@
       "properties": {
         "title": "P.Oxy. 16 1931",
         "origPlace": "Oxyrhynchos",
-        "precision": "mid",
+        "origDate": "[0401-01-01/0500-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "5",
-          "6"
+          5,
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/35607"
     },
@@ -465,10 +476,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0346"
+              "in": "0346-01-01"
             },
             "end": {
-              "in": "0350"
+              "in": "0350-12-31"
             }
           }
         ]
@@ -483,17 +494,18 @@
       "properties": {
         "title": "P.Oxy. 19 2229",
         "origPlace": "Oxyrhynchos",
-        "precision": "mid",
+        "origDate": "[0346-01-01/0350-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "4"
+          4
         ],
         "type": "Transmission of Information ",
         "subtype": "Warrant (TI)",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/22179"
     },
@@ -506,10 +518,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0401"
+              "in": "0401-01-01"
             },
             "end": {
-              "in": "0500"
+              "in": "0500-12-31"
             }
           }
         ]
@@ -524,17 +536,18 @@
       "properties": {
         "title": "P.Flor. 3 303",
         "origPlace": "Arsinoites, \u00c4gypten",
-        "precision": "mid",
+        "origDate": "[0401-01-01/0500-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "5",
-          "6"
+          5,
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
-        "label": "Arsinoites"
+        "coord_name": "Arsinoites"
       },
       "@id": "https://grammateus.unige.ch/document/36865"
     },
@@ -547,10 +560,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0401"
+              "in": "0401-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -565,18 +578,19 @@
       "properties": {
         "title": "SPP 20 236",
         "origPlace": "Arsinoites",
-        "precision": "mid",
+        "origDate": "[0401-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "5",
-          "6",
-          "7"
+          5,
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
-        "label": "Arsinoites"
+        "coord_name": "Arsinoites"
       },
       "@id": "https://grammateus.unige.ch/document/35203"
     },
@@ -589,10 +603,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0301"
+              "in": "0301-01-01"
             },
             "end": {
-              "in": "0400"
+              "in": "0400-12-31"
             }
           }
         ]
@@ -607,17 +621,18 @@
       "properties": {
         "title": "P.Oxy. 67 4628",
         "origPlace": "Oxyrhynchites",
-        "precision": "mid",
+        "origDate": "[0301-01-01/0400-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "4",
-          "5"
+          4,
+          5
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "label": "Oxyrhynchites"
+        "coord_name": "Oxyrhynchites"
       },
       "@id": "https://grammateus.unige.ch/document/78667"
     },
@@ -648,17 +663,18 @@
       "properties": {
         "title": "CPR 6 38",
         "origPlace": "Pesla (Hermopolites) oder Hermopolis",
-        "precision": "high",
+        "origDate": "0321-04-10",
+        "precision": "High",
         "provenance": "located",
         "centuries": [
-          "4"
+          4
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
         "settlement": "Pesla",
-        "label": "\u00c4gypten"
+        "coord_name": "\u00c4gypten"
       },
       "@id": "https://grammateus.unige.ch/document/45280"
     },
@@ -689,16 +705,17 @@
       "properties": {
         "title": "SB 28 16885",
         "origPlace": "Oxyrhynchites",
-        "precision": "high",
+        "origDate": "0476-05-05",
+        "precision": "High",
         "provenance": "located",
         "centuries": [
-          "5"
+          5
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "label": "Oxyrhynchites"
+        "coord_name": "Oxyrhynchites"
       },
       "@id": "https://grammateus.unige.ch/document/50666"
     },
@@ -711,10 +728,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -729,17 +746,18 @@
       "properties": {
         "title": "P.Wisc. 2 67",
         "origPlace": "Oxyrhynchites",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "label": "Oxyrhynchites"
+        "coord_name": "Oxyrhynchites"
       },
       "@id": "https://grammateus.unige.ch/document/35940"
     },
@@ -752,10 +770,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0700"
+              "in": "0700-12-31"
             }
           }
         ]
@@ -770,19 +788,20 @@
       "properties": {
         "title": "SB 20 14967",
         "origPlace": "Hermopolis",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0700-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7",
-          "8"
+          6,
+          7,
+          8
         ],
         "type": "Transmission of Information ",
         "subtype": "Warrant (TI)",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
         "settlement": "Hermopolis",
-        "label": "Hermopolis"
+        "coord_name": "Hermopolis"
       },
       "@id": "https://grammateus.unige.ch/document/38524"
     },
@@ -813,10 +832,11 @@
       "properties": {
         "title": "CPR 6 39",
         "origPlace": "Pesla (Hermopolites) oder Hermopolis",
-        "precision": "high",
+        "origDate": "0325-04-16",
+        "precision": "High",
         "provenance": "located",
         "centuries": [
-          "4"
+          4
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -824,7 +844,7 @@
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
         "settlement": "Pesla",
-        "label": "\u00c4gypten"
+        "coord_name": "\u00c4gypten"
       },
       "@id": "https://grammateus.unige.ch/document/45281"
     },
@@ -837,10 +857,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0301"
+              "in": "0301-01-01"
             },
             "end": {
-              "in": "0400"
+              "in": "0400-12-31"
             }
           }
         ]
@@ -855,18 +875,19 @@
       "properties": {
         "title": "CPR 8 33",
         "origPlace": "Hermopolites",
-        "precision": "mid",
+        "origDate": "[0301-01-01/0400-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "4",
-          "5"
+          4,
+          5
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
-        "label": "\u00c4gypten"
+        "coord_name": "\u00c4gypten"
       },
       "@id": "https://grammateus.unige.ch/document/32357"
     },
@@ -879,10 +900,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0301"
+              "in": "0301-01-01"
             },
             "end": {
-              "in": "0400"
+              "in": "0400-12-31"
             }
           }
         ]
@@ -897,15 +918,16 @@
       "properties": {
         "title": "BGU 2 412",
         "origPlace": "unbekannt",
-        "precision": "mid",
+        "origDate": "[0301-01-01/0400-12-31]",
+        "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          "4",
-          "5"
+          4,
+          5
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
-        "label": "Unknown"
+        "coord_name": "Unknown"
       },
       "@id": "https://grammateus.unige.ch/document/33263"
     },
@@ -918,10 +940,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0301"
+              "in": "0301-01-01"
             },
             "end": {
-              "in": "0500"
+              "in": "0500-12-31"
             }
           }
         ]
@@ -936,16 +958,17 @@
       "properties": {
         "title": "P.Strasb. 1 35",
         "origPlace": "unbekannt",
-        "precision": "mid",
+        "origDate": "[0301-01-01/0500-12-31]",
+        "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          "4",
-          "5",
-          "6"
+          4,
+          5,
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
-        "label": "Unknown"
+        "coord_name": "Unknown"
       },
       "@id": "https://grammateus.unige.ch/document/33059"
     },
@@ -958,10 +981,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -976,18 +999,19 @@
       "properties": {
         "title": "P.Oxy. 59 4005",
         "origPlace": "Oxyrhynchos",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/36848"
     },
@@ -1000,10 +1024,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0700"
+              "in": "0700-12-31"
             }
           }
         ]
@@ -1018,16 +1042,17 @@
       "properties": {
         "title": "P.Vindob.Worp. 23",
         "origPlace": "unbekannt",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0700-12-31]",
+        "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          "6",
-          "7",
-          "8"
+          6,
+          7,
+          8
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
-        "label": "Unknown"
+        "coord_name": "Unknown"
       },
       "@id": "https://grammateus.unige.ch/document/36055"
     },
@@ -1040,10 +1065,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -1058,18 +1083,19 @@
       "properties": {
         "title": "P.Cair. Masp. 3 67322",
         "origPlace": "Antaiopolis (?)",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Antaiopolites",
         "settlement": "Antaiopolis",
-        "label": "Antaiopolis"
+        "coord_name": "Antaiopolis"
       },
       "@id": "https://grammateus.unige.ch/document/36531"
     },
@@ -1100,16 +1126,17 @@
       "properties": {
         "title": "SB 28 16882",
         "origPlace": "Oxyrhynchites",
-        "precision": "high",
+        "origDate": "0472-06-26",
+        "precision": "High",
         "provenance": "located",
         "centuries": [
-          "5"
+          5
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "label": "Oxyrhynchites"
+        "coord_name": "Oxyrhynchites"
       },
       "@id": "https://grammateus.unige.ch/document/50663"
     },
@@ -1122,10 +1149,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0500"
+              "in": "0500-01-01"
             },
             "end": {
-              "in": "0500"
+              "in": "0500-12-31"
             }
           }
         ]
@@ -1140,17 +1167,18 @@
       "properties": {
         "title": "P.Lund. 2 5",
         "origPlace": "Arsinoiton Polis (?)",
-        "precision": "high",
+        "origDate": "[0500-01-01/0500-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6"
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
         "settlement": "Arsinoiton Polis",
-        "label": "Arsinoiton Polis"
+        "coord_name": "Arsinoiton Polis"
       },
       "@id": "https://grammateus.unige.ch/document/41035"
     },
@@ -1181,17 +1209,18 @@
       "properties": {
         "title": "P.Oxy. 82 5334",
         "origPlace": "Oxyrhynchos",
-        "precision": "mid",
+        "origDate": "[0484-09-28/0484-10-27]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "5"
+          5
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/702445"
     },
@@ -1222,17 +1251,18 @@
       "properties": {
         "title": "CPR 6 45",
         "origPlace": "Pesla (Hermopolites) oder Hermopolis",
-        "precision": "high",
+        "origDate": "0322-06-16",
+        "precision": "High",
         "provenance": "located",
         "centuries": [
-          "4"
+          4
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
         "settlement": "Pesla",
-        "label": "\u00c4gypten"
+        "coord_name": "\u00c4gypten"
       },
       "@id": "https://grammateus.unige.ch/document/45284"
     },
@@ -1245,10 +1275,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -1263,15 +1293,16 @@
       "properties": {
         "title": "SB 20 14727",
         "origPlace": "unbekannt",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
-        "label": "Unknown"
+        "coord_name": "Unknown"
       },
       "@id": "https://grammateus.unige.ch/document/38521"
     },
@@ -1284,10 +1315,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0624"
+              "in": "0624-01-01"
             },
             "end": {
-              "in": "0624"
+              "in": "0624-12-31"
             }
           }
         ]
@@ -1302,17 +1333,18 @@
       "properties": {
         "title": "P.Oxy. 16 1862",
         "origPlace": "Oxyrhynchos",
-        "precision": "high",
+        "origDate": "[0624-01-01/0624-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "7"
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/22009"
     },
@@ -1325,10 +1357,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0525"
+              "in": "0525-12-31"
             }
           }
         ]
@@ -1343,17 +1375,18 @@
       "properties": {
         "title": "P.Oxy. 36 2799",
         "origPlace": "Oxyrhynchos",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0525-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6"
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/36040"
     },
@@ -1366,10 +1399,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -1384,18 +1417,19 @@
       "properties": {
         "title": "P.Iand. 6 103",
         "origPlace": "Ankyron ? (Herakleopolites)",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Herakleopolites",
         "settlement": "Ankyron",
-        "label": "Ankyron"
+        "coord_name": "Ankyron"
       },
       "@id": "https://grammateus.unige.ch/document/36108"
     },
@@ -1408,10 +1442,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0301"
+              "in": "0301-01-01"
             },
             "end": {
-              "in": "0400"
+              "in": "0400-12-31"
             }
           }
         ]
@@ -1426,17 +1460,18 @@
       "properties": {
         "title": "CPR 8 28",
         "origPlace": "Hermopolites",
-        "precision": "mid",
+        "origDate": "[0301-01-01/0400-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "4",
-          "5"
+          4,
+          5
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
-        "label": "\u00c4gypten"
+        "coord_name": "\u00c4gypten"
       },
       "@id": "https://grammateus.unige.ch/document/32352"
     },
@@ -1449,10 +1484,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0476"
+              "in": "0476-01-01"
             },
             "end": {
-              "in": "0525"
+              "in": "0525-12-31"
             }
           }
         ]
@@ -1467,18 +1502,19 @@
       "properties": {
         "title": "P.Oxy. 16 1872",
         "origPlace": "Oxyrhynchos",
-        "precision": "mid",
+        "origDate": "[0476-01-01/0525-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "5",
-          "6"
+          5,
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/35601"
     },
@@ -1491,10 +1527,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -1509,17 +1545,18 @@
       "properties": {
         "title": "SB 22 15752",
         "origPlace": "Arsinoites",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
-        "label": "Arsinoites"
+        "coord_name": "Arsinoites"
       },
       "@id": "https://grammateus.unige.ch/document/43230"
     },
@@ -1532,10 +1569,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0401"
+              "in": "0401-01-01"
             },
             "end": {
-              "in": "0500"
+              "in": "0500-12-31"
             }
           }
         ]
@@ -1550,18 +1587,19 @@
       "properties": {
         "title": "P.Oxy. 10 1300",
         "origPlace": "Oxyrhynchos",
-        "precision": "mid",
+        "origDate": "[0401-01-01/0500-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "5",
-          "6"
+          5,
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/35577"
     },
@@ -1592,17 +1630,18 @@
       "properties": {
         "title": "CPR 6 37",
         "origPlace": "Pesla (Hermopolites) oder Hermopolis",
-        "precision": "high",
+        "origDate": "0322-06-21",
+        "precision": "High",
         "provenance": "located",
         "centuries": [
-          "4"
+          4
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
         "settlement": "Pesla",
-        "label": "\u00c4gypten"
+        "coord_name": "\u00c4gypten"
       },
       "@id": "https://grammateus.unige.ch/document/45279"
     },
@@ -1633,17 +1672,18 @@
       "properties": {
         "title": "CPR 6 36",
         "origPlace": "Pesla (Hermopolites) oder Hermopolis",
-        "precision": "high",
+        "origDate": "0322-05-26",
+        "precision": "High",
         "provenance": "located",
         "centuries": [
-          "4"
+          4
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
         "settlement": "Pesla",
-        "label": "\u00c4gypten"
+        "coord_name": "\u00c4gypten"
       },
       "@id": "https://grammateus.unige.ch/document/45278"
     },
@@ -1674,16 +1714,17 @@
       "properties": {
         "title": "P.Oxy. 72 4928",
         "origPlace": "Oxyrhynchites",
-        "precision": "mid",
+        "origDate": "[0564-05-16/0564-05-24]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6"
+          6
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "label": "Oxyrhynchites"
+        "coord_name": "Oxyrhynchites"
       },
       "@id": "https://grammateus.unige.ch/document/114309"
     },
@@ -1696,10 +1737,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0476"
+              "in": "0476-01-01"
             },
             "end": {
-              "in": "0500"
+              "in": "0500-12-31"
             }
           }
         ]
@@ -1714,18 +1755,19 @@
       "properties": {
         "title": "P.Oxy. 16 1871",
         "origPlace": "Oxyrhynchos",
-        "precision": "mid",
+        "origDate": "[0476-01-01/0500-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "5",
-          "6"
+          5,
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/35600"
     },
@@ -1738,10 +1780,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0301"
+              "in": "0301-01-01"
             },
             "end": {
-              "in": "0500"
+              "in": "0500-12-31"
             }
           }
         ]
@@ -1756,19 +1798,20 @@
       "properties": {
         "title": "P.Oxy. 34 2731",
         "origPlace": "Oxyrhynchos",
-        "precision": "mid",
+        "origDate": "[0301-01-01/0500-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "4",
-          "5",
-          "6"
+          4,
+          5,
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/32646"
     },
@@ -1781,10 +1824,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0357"
+              "in": "0357-01-01"
             },
             "end": {
-              "in": "0362"
+              "in": "0362-12-31"
             }
           }
         ]
@@ -1799,10 +1842,11 @@
       "properties": {
         "title": "PSI 3 217",
         "origPlace": "Oxyrhynchos",
-        "precision": "mid",
+        "origDate": "[0357-01-01/0362-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "4"
+          4
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -1810,7 +1854,7 @@
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/20040"
     },
@@ -1823,10 +1867,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0300"
+              "in": "0300-01-01"
             },
             "end": {
-              "in": "0301"
+              "in": "0301-12-31"
             }
           }
         ]
@@ -1841,17 +1885,18 @@
       "properties": {
         "title": "CPR 6 12",
         "origPlace": "Pesla (Hermopolites) oder Hermopolis",
-        "precision": "mid",
+        "origDate": "[0300-01-01/0301-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "4"
+          4
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
         "settlement": "Pesla",
-        "label": "\u00c4gypten"
+        "coord_name": "\u00c4gypten"
       },
       "@id": "https://grammateus.unige.ch/document/15776"
     },
@@ -1864,10 +1909,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0401"
+              "in": "0401-01-01"
             },
             "end": {
-              "in": "0700"
+              "in": "0700-12-31"
             }
           }
         ]
@@ -1882,18 +1927,19 @@
       "properties": {
         "title": "P.Rainer Cent. 134",
         "origPlace": "Hermopolis (?)",
-        "precision": "mid",
+        "origDate": "[0401-01-01/0700-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "5",
-          "6",
-          "7",
-          "8"
+          5,
+          6,
+          7,
+          8
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "settlement": "Hermopolis",
-        "label": "Hermopolis"
+        "coord_name": "Hermopolis"
       },
       "@id": "https://grammateus.unige.ch/document/34784"
     },
@@ -1906,10 +1952,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -1924,17 +1970,18 @@
       "properties": {
         "title": "SPP 8 1067",
         "origPlace": "Hermopolites (?)",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
-        "label": "\u00c4gypten"
+        "coord_name": "\u00c4gypten"
       },
       "@id": "https://grammateus.unige.ch/document/38035"
     },
@@ -1965,17 +2012,18 @@
       "properties": {
         "title": "P.Oxy. 16 1945",
         "origPlace": "Oxyrhynchos",
-        "precision": "high",
+        "origDate": "0517-01-14",
+        "precision": "High",
         "provenance": "located",
         "centuries": [
-          "6"
+          6
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/22051"
     },
@@ -1988,10 +2036,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -2006,18 +2054,19 @@
       "properties": {
         "title": "P.Oxy. 16 1838",
         "origPlace": "Oxyrhynchos",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/37845"
     },
@@ -2048,17 +2097,18 @@
       "properties": {
         "title": "P.Oxy. 50 3577",
         "origPlace": "Herakleopolis",
-        "precision": "high",
+        "origDate": "0342-01-28",
+        "precision": "High",
         "provenance": "located",
         "centuries": [
-          "4"
+          4
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Herakleopolites",
         "settlement": "Herakleopolis",
-        "label": "Herakleopolis"
+        "coord_name": "Herakleopolis"
       },
       "@id": "https://grammateus.unige.ch/document/15398"
     },
@@ -2071,10 +2121,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -2089,18 +2139,19 @@
       "properties": {
         "title": "P.Oxy. 16 1935",
         "origPlace": "Oxyrhynchos",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/37887"
     },
@@ -2113,10 +2164,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -2131,17 +2182,18 @@
       "properties": {
         "title": "SPP 8 1066",
         "origPlace": "Hermopolites (?)",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
-        "label": "\u00c4gypten"
+        "coord_name": "\u00c4gypten"
       },
       "@id": "https://grammateus.unige.ch/document/38034"
     },
@@ -2154,10 +2206,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0401"
+              "in": "0401-01-01"
             },
             "end": {
-              "in": "0700"
+              "in": "0700-12-31"
             }
           }
         ]
@@ -2172,18 +2224,19 @@
       "properties": {
         "title": "P.Rainer Cent. 135 r",
         "origPlace": "Hermopolis (?)",
-        "precision": "mid",
+        "origDate": "[0401-01-01/0700-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "5",
-          "6",
-          "7",
-          "8"
+          5,
+          6,
+          7,
+          8
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "settlement": "Hermopolis",
-        "label": "Hermopolis"
+        "coord_name": "Hermopolis"
       },
       "@id": "https://grammateus.unige.ch/document/34785"
     },
@@ -2196,10 +2249,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -2214,18 +2267,19 @@
       "properties": {
         "title": "P.Cair. Masp. 1 67068",
         "origPlace": "Aphrodites Kome (Antaiopolites)",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Antaiopolites",
         "settlement": "Aphrodites Kome",
-        "label": "Aphrodites Kome"
+        "coord_name": "Aphrodites Kome"
       },
       "@id": "https://grammateus.unige.ch/document/36810"
     },
@@ -2238,10 +2292,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0526"
+              "in": "0526-01-01"
             },
             "end": {
-              "in": "0575"
+              "in": "0575-12-31"
             }
           }
         ]
@@ -2256,17 +2310,18 @@
       "properties": {
         "title": "P.Cair. Masp. 1 67061",
         "origPlace": "Antaiopolis",
-        "precision": "mid",
+        "origDate": "[0526-01-01/0575-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6"
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Antaiopolites",
         "settlement": "Antaiopolis",
-        "label": "Antaiopolis"
+        "coord_name": "Antaiopolis"
       },
       "@id": "https://grammateus.unige.ch/document/36804"
     },
@@ -2279,10 +2334,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -2297,17 +2352,18 @@
       "properties": {
         "title": "P.Prag. 3 230",
         "origPlace": "Arsinoites",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
-        "label": "Arsinoites"
+        "coord_name": "Arsinoites"
       },
       "@id": "https://grammateus.unige.ch/document/130554"
     },
@@ -2320,10 +2376,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -2338,17 +2394,18 @@
       "properties": {
         "title": "P.Rainer Cent. 137",
         "origPlace": "Herakleopolites",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Herakleopolites",
-        "label": "Herakleopolites"
+        "coord_name": "Herakleopolites"
       },
       "@id": "https://grammateus.unige.ch/document/35855"
     },
@@ -2361,10 +2418,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -2379,16 +2436,17 @@
       "properties": {
         "title": "P.Col. 11 302",
         "origPlace": "Alexandria (?)",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "settlement": "Alexandria",
-        "label": "Alexandria"
+        "coord_name": "Alexandria"
       },
       "@id": "https://grammateus.unige.ch/document/38395"
     },
@@ -2401,10 +2459,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0401"
+              "in": "0401-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -2419,19 +2477,20 @@
       "properties": {
         "title": "SPP 8 1065",
         "origPlace": "Hermopolis",
-        "precision": "mid",
+        "origDate": "[0401-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "5",
-          "6",
-          "7"
+          5,
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
         "settlement": "Hermopolis",
-        "label": "Hermopolis"
+        "coord_name": "Hermopolis"
       },
       "@id": "https://grammateus.unige.ch/document/35672"
     },
@@ -2444,10 +2503,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0626"
+              "in": "0626-01-01"
             },
             "end": {
-              "in": "0675"
+              "in": "0675-12-31"
             }
           }
         ]
@@ -2462,16 +2521,17 @@
       "properties": {
         "title": "P.Rainer Cent. 139",
         "origPlace": "Memphites",
-        "precision": "mid",
+        "origDate": "[0626-01-01/0675-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "7"
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Memphites",
-        "label": "Memphites"
+        "coord_name": "Memphites"
       },
       "@id": "https://grammateus.unige.ch/document/35857"
     },
@@ -2484,10 +2544,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -2502,18 +2562,19 @@
       "properties": {
         "title": "P.Cair. Masp. 1 67070",
         "origPlace": "Aphrodites Kome (Antaiopolites)",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Antaiopolites",
         "settlement": "Aphrodites Kome",
-        "label": "Aphrodites Kome"
+        "coord_name": "Aphrodites Kome"
       },
       "@id": "https://grammateus.unige.ch/document/36812"
     },
@@ -2526,10 +2587,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -2544,17 +2605,18 @@
       "properties": {
         "title": "SPP 8 1068",
         "origPlace": "Hermopolites (?)",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
-        "label": "\u00c4gypten"
+        "coord_name": "\u00c4gypten"
       },
       "@id": "https://grammateus.unige.ch/document/38036"
     },
@@ -2567,10 +2629,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -2585,18 +2647,19 @@
       "properties": {
         "title": "P.Oxy. 16 1840",
         "origPlace": "Oxyrhynchos",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/37847"
     },
@@ -2609,10 +2672,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -2627,17 +2690,18 @@
       "properties": {
         "title": "SB 22 15754",
         "origPlace": "Arsinoites",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
-        "label": "Arsinoites"
+        "coord_name": "Arsinoites"
       },
       "@id": "https://grammateus.unige.ch/document/37089"
     },
@@ -2650,10 +2714,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0553"
+              "in": "0553-01-01"
             },
             "end": {
-              "in": "0553"
+              "in": "0553-12-31"
             }
           }
         ]
@@ -2668,17 +2732,18 @@
       "properties": {
         "title": "P.Cair. Masp. 1 67060",
         "origPlace": "Antaiopolis",
-        "precision": "high",
+        "origDate": "[0553-01-01/0553-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6"
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Antaiopolites",
         "settlement": "Antaiopolis",
-        "label": "Antaiopolis"
+        "coord_name": "Antaiopolis"
       },
       "@id": "https://grammateus.unige.ch/document/36803"
     },
@@ -2691,10 +2756,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -2709,18 +2774,19 @@
       "properties": {
         "title": "P.Oxy. 56 3866",
         "origPlace": "Oxyrhynchos",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/37466"
     },
@@ -2751,17 +2817,18 @@
       "properties": {
         "title": "P.Oxy. 16 1952",
         "origPlace": "Oxyrhynchos",
-        "precision": "high",
+        "origDate": "0564-05-21",
+        "precision": "High",
         "provenance": "located",
         "centuries": [
-          "6"
+          6
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/37894"
     },
@@ -2792,17 +2859,18 @@
       "properties": {
         "title": "P.Oxy. 51 3637",
         "origPlace": "Oxyrhynchos",
-        "precision": "high",
+        "origDate": "0623-10-19",
+        "precision": "High",
         "provenance": "located",
         "centuries": [
-          "7"
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/15360"
     },
@@ -2815,10 +2883,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -2833,18 +2901,19 @@
       "properties": {
         "title": "PSI 15 1569",
         "origPlace": "Antinoopolis (?)",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Antinoites",
         "settlement": "Antinoopolis",
-        "label": "Antinoopolis"
+        "coord_name": "Antinoopolis"
       },
       "@id": "https://grammateus.unige.ch/document/38556"
     },
@@ -2857,10 +2926,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0401"
+              "in": "0401-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -2875,18 +2944,19 @@
       "properties": {
         "title": "P.Rainer Cent. 133",
         "origPlace": "Herakleopolites",
-        "precision": "mid",
+        "origDate": "[0401-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "5",
-          "6",
-          "7"
+          5,
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Herakleopolites",
-        "label": "Herakleopolites"
+        "coord_name": "Herakleopolites"
       },
       "@id": "https://grammateus.unige.ch/document/34783"
     },
@@ -2899,10 +2969,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0550"
+              "in": "0550-12-31"
             }
           }
         ]
@@ -2917,17 +2987,18 @@
       "properties": {
         "title": "P.Oxy. 7 1071",
         "origPlace": "Oxyrhynchos",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0550-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6"
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/35310"
     },
@@ -2940,10 +3011,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -2958,17 +3029,18 @@
       "properties": {
         "title": "P.Prag. 3 228",
         "origPlace": "Arsinoites",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
-        "label": "Arsinoites"
+        "coord_name": "Arsinoites"
       },
       "@id": "https://grammateus.unige.ch/document/130552"
     },
@@ -2981,10 +3053,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -2999,17 +3071,18 @@
       "properties": {
         "title": "SPP 20 254",
         "origPlace": "Herakleopolites (?)",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Herakleopolites",
-        "label": "Herakleopolites"
+        "coord_name": "Herakleopolites"
       },
       "@id": "https://grammateus.unige.ch/document/36631"
     },
@@ -3040,10 +3113,11 @@
       "properties": {
         "title": "P.Oxy. 56 3875",
         "origPlace": "Oxyrhynchos",
-        "precision": "high",
+        "origDate": "0360-01-02",
+        "precision": "High",
         "provenance": "located",
         "centuries": [
-          "4"
+          4
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -3051,7 +3125,7 @@
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/21601"
     },
@@ -3064,10 +3138,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -3082,18 +3156,19 @@
       "properties": {
         "title": "P.Rainer Cent. 80",
         "origPlace": "Hermopolis",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
         "settlement": "Hermopolis",
-        "label": "Hermopolis"
+        "coord_name": "Hermopolis"
       },
       "@id": "https://grammateus.unige.ch/document/35851"
     },
@@ -3106,10 +3181,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0601"
+              "in": "0601-01-01"
             },
             "end": {
-              "in": "0625"
+              "in": "0625-12-31"
             }
           }
         ]
@@ -3124,16 +3199,17 @@
       "properties": {
         "title": "P.Laur. 2 47",
         "origPlace": "Oxyrhynchites",
-        "precision": "mid",
+        "origDate": "[0601-01-01/0625-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "7"
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "label": "Oxyrhynchites"
+        "coord_name": "Oxyrhynchites"
       },
       "@id": "https://grammateus.unige.ch/document/39266"
     },
@@ -3146,10 +3222,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0401"
+              "in": "0401-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -3164,19 +3240,20 @@
       "properties": {
         "title": "P.Rainer Cent. 76",
         "origPlace": "Hermopolis",
-        "precision": "mid",
+        "origDate": "[0401-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "5",
-          "6",
-          "7"
+          5,
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
         "settlement": "Hermopolis",
-        "label": "Hermopolis"
+        "coord_name": "Hermopolis"
       },
       "@id": "https://grammateus.unige.ch/document/34781"
     },
@@ -3189,10 +3266,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0301"
+              "in": "0301-01-01"
             },
             "end": {
-              "in": "0500"
+              "in": "0500-12-31"
             }
           }
         ]
@@ -3207,19 +3284,20 @@
       "properties": {
         "title": "P.Oxy. 56 3862",
         "origPlace": "Oxyrhynchos",
-        "precision": "mid",
+        "origDate": "[0301-01-01/0500-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "4",
-          "5",
-          "6"
+          4,
+          5,
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/33603"
     },
@@ -3232,10 +3310,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0340"
+              "in": "0340-01-01"
             },
             "end": {
-              "in": "0340"
+              "in": "0340-12-31"
             }
           }
         ]
@@ -3250,17 +3328,18 @@
       "properties": {
         "title": "P.Oxy. 55 3794",
         "origPlace": "Oxyrhynchos",
-        "precision": "high",
+        "origDate": "[0340-01-01/0340-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "4"
+          4
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/22518"
     },
@@ -3273,10 +3352,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0700"
+              "in": "0700-12-31"
             }
           }
         ]
@@ -3291,19 +3370,20 @@
       "properties": {
         "title": "P.Oxy. 56 3870",
         "origPlace": "Oxyrhynchos",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0700-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7",
-          "8"
+          6,
+          7,
+          8
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/37470"
     },
@@ -3316,10 +3396,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0576"
+              "in": "0576-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -3334,17 +3414,18 @@
       "properties": {
         "title": "SB 6 9138",
         "origPlace": "Arsinoites, \u00c4gypten",
-        "precision": "mid",
+        "origDate": "[0576-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
-        "label": "Arsinoites"
+        "coord_name": "Arsinoites"
       },
       "@id": "https://grammateus.unige.ch/document/36197"
     },
@@ -3375,10 +3456,11 @@
       "properties": {
         "title": "P.Gen. 4 177",
         "origPlace": "Oxyrhynchos",
-        "precision": "high",
+        "origDate": "0385-11-14",
+        "precision": "High",
         "provenance": "located",
         "centuries": [
-          "4"
+          4
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -3386,7 +3468,7 @@
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/129799"
     },
@@ -3399,10 +3481,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -3417,18 +3499,19 @@
       "properties": {
         "title": "PSI 8 938",
         "origPlace": "Aphrodites Kome (Antaiopolites, \u00c4gypten)",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Antaiopolites",
         "settlement": "Aphrodites Kome",
-        "label": "Aphrodites Kome"
+        "coord_name": "Aphrodites Kome"
       },
       "@id": "https://grammateus.unige.ch/document/36168"
     },
@@ -3441,10 +3524,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -3459,17 +3542,18 @@
       "properties": {
         "title": "SB 22 15746",
         "origPlace": "Arsinoites",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
-        "label": "Arsinoites"
+        "coord_name": "Arsinoites"
       },
       "@id": "https://grammateus.unige.ch/document/37086"
     },
@@ -3500,10 +3584,11 @@
       "properties": {
         "title": "P.Oxy. 63 4375",
         "origPlace": "Oxyrhynchos",
-        "precision": "mid",
+        "origDate": "[0365-04-05/0365-04-14]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "4"
+          4
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -3511,7 +3596,7 @@
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/22138"
     },
@@ -3524,10 +3609,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0700"
+              "in": "0700-12-31"
             }
           }
         ]
@@ -3542,16 +3627,17 @@
       "properties": {
         "title": "P.K\u00f6ln 3 166",
         "origPlace": "unbekannt",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0700-12-31]",
+        "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          "6",
-          "7",
-          "8"
+          6,
+          7,
+          8
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
-        "label": "Unknown"
+        "coord_name": "Unknown"
       },
       "@id": "https://grammateus.unige.ch/document/37290"
     },
@@ -3564,10 +3650,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0700"
+              "in": "0700-12-31"
             }
           }
         ]
@@ -3582,19 +3668,20 @@
       "properties": {
         "title": "P.Oxy. 16 1868",
         "origPlace": "Oxyrhynchos",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0700-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7",
-          "8"
+          6,
+          7,
+          8
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/37870"
     },
@@ -3607,10 +3694,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0700"
+              "in": "0700-12-31"
             }
           }
         ]
@@ -3625,19 +3712,20 @@
       "properties": {
         "title": "P.Oxy. 16 1859",
         "origPlace": "Oxyrhynchos",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0700-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7",
-          "8"
+          6,
+          7,
+          8
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/37865"
     },
@@ -3650,10 +3738,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -3668,15 +3756,16 @@
       "properties": {
         "title": "P.Prag. 2 197",
         "origPlace": "unbekannt",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
-        "label": "Unknown"
+        "coord_name": "Unknown"
       },
       "@id": "https://grammateus.unige.ch/document/37497"
     },
@@ -3689,10 +3778,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -3707,17 +3796,18 @@
       "properties": {
         "title": "P.Prag. 3 225",
         "origPlace": "Arsinoites",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
-        "label": "Arsinoites"
+        "coord_name": "Arsinoites"
       },
       "@id": "https://grammateus.unige.ch/document/130549"
     },
@@ -3730,10 +3820,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -3748,17 +3838,18 @@
       "properties": {
         "title": "SB 22 15742",
         "origPlace": "Arsinoites",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
-        "label": "Arsinoites"
+        "coord_name": "Arsinoites"
       },
       "@id": "https://grammateus.unige.ch/document/37087"
     },
@@ -3771,10 +3862,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0451"
+              "in": "0451-01-01"
             },
             "end": {
-              "in": "0525"
+              "in": "0525-12-31"
             }
           }
         ]
@@ -3789,17 +3880,18 @@
       "properties": {
         "title": "APF 58 (2012) S. 305",
         "origPlace": "Oxyrhynchites",
-        "precision": "mid",
+        "origDate": "[0451-01-01/0525-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "5",
-          "6"
+          5,
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "label": "Oxyrhynchites"
+        "coord_name": "Oxyrhynchites"
       },
       "@id": "https://grammateus.unige.ch/document/172220"
     },
@@ -3812,10 +3904,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0301"
+              "in": "0301-01-01"
             },
             "end": {
-              "in": "0400"
+              "in": "0400-12-31"
             }
           }
         ]
@@ -3830,18 +3922,19 @@
       "properties": {
         "title": "P.NYU 1 25",
         "origPlace": "Karanis (Arsinoites, \u00c4gypten)",
-        "precision": "mid",
+        "origDate": "[0301-01-01/0400-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "4",
-          "5"
+          4,
+          5
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
         "settlement": "Karanis",
-        "label": "Karanis"
+        "coord_name": "Karanis"
       },
       "@id": "https://grammateus.unige.ch/document/33591"
     },
@@ -3854,10 +3947,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0401"
+              "in": "0401-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -3872,18 +3965,19 @@
       "properties": {
         "title": "CPR 25 8",
         "origPlace": "Hermopolites",
-        "precision": "mid",
+        "origDate": "[0401-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "5",
-          "6",
-          "7"
+          5,
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
-        "label": "\u00c4gypten"
+        "coord_name": "\u00c4gypten"
       },
       "@id": "https://grammateus.unige.ch/document/92439"
     },
@@ -3914,17 +4008,18 @@
       "properties": {
         "title": "SB 16 12618",
         "origPlace": "Oxyrhynchites",
-        "precision": "high",
+        "origDate": "0371-06-19",
+        "precision": "High",
         "provenance": "located",
         "centuries": [
-          "4"
+          4
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "label": "Oxyrhynchites"
+        "coord_name": "Oxyrhynchites"
       },
       "@id": "https://grammateus.unige.ch/document/17433"
     },
@@ -3937,10 +4032,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0401"
+              "in": "0401-01-01"
             },
             "end": {
-              "in": "0700"
+              "in": "0700-12-31"
             }
           }
         ]
@@ -3955,17 +4050,18 @@
       "properties": {
         "title": "P.Vindob. Worp 19",
         "origPlace": "unbekannt",
-        "precision": "mid",
+        "origDate": "[0401-01-01/0700-12-31]",
+        "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          "5",
-          "6",
-          "7",
-          "8"
+          5,
+          6,
+          7,
+          8
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
-        "label": "Unknown"
+        "coord_name": "Unknown"
       },
       "@id": "https://grammateus.unige.ch/document/35043"
     },
@@ -3996,16 +4092,17 @@
       "properties": {
         "title": "APF 56 (2010) S. 60",
         "origPlace": "Oxyrhynchites",
-        "precision": "high",
+        "origDate": "0475-01-31",
+        "precision": "High",
         "provenance": "located",
         "centuries": [
-          "5"
+          5
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "label": "Oxyrhynchites"
+        "coord_name": "Oxyrhynchites"
       },
       "@id": "https://grammateus.unige.ch/document/133452"
     },
@@ -4018,10 +4115,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -4036,18 +4133,19 @@
       "properties": {
         "title": "P.Oxy. 58 3932",
         "origPlace": "Oxyrhynchos",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/36210"
     },
@@ -4060,10 +4158,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0700"
+              "in": "0700-12-31"
             }
           }
         ]
@@ -4078,19 +4176,20 @@
       "properties": {
         "title": "P.Oxy. 16 1860",
         "origPlace": "Oxyrhynchos",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0700-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7",
-          "8"
+          6,
+          7,
+          8
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/37866"
     },
@@ -4103,10 +4202,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -4121,17 +4220,18 @@
       "properties": {
         "title": "P.Prag. 2 154",
         "origPlace": "Arsinoites",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
-        "label": "Arsinoites"
+        "coord_name": "Arsinoites"
       },
       "@id": "https://grammateus.unige.ch/document/37480"
     },
@@ -4144,10 +4244,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0301"
+              "in": "0301-01-01"
             },
             "end": {
-              "in": "0325"
+              "in": "0325-12-31"
             }
           }
         ]
@@ -4162,17 +4262,18 @@
       "properties": {
         "title": "CPR 6 43",
         "origPlace": "Pesla (Hermopolites) oder Hermopolis",
-        "precision": "mid",
+        "origDate": "[0301-01-01/0325-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "4"
+          4
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
         "settlement": "Pesla",
-        "label": "\u00c4gypten"
+        "coord_name": "\u00c4gypten"
       },
       "@id": "https://grammateus.unige.ch/document/32513"
     },
@@ -4185,10 +4286,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0576"
+              "in": "0576-01-01"
             },
             "end": {
-              "in": "0625"
+              "in": "0625-12-31"
             }
           }
         ]
@@ -4203,16 +4304,17 @@
       "properties": {
         "title": "P.Gen. 4 168",
         "origPlace": "Apollonopolis Heptakomias",
-        "precision": "mid",
+        "origDate": "[0576-01-01/0625-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "settlement": "Apollonopolis Heptakomias",
-        "label": "Apollonopolis Heptakomias"
+        "coord_name": "Apollonopolis Heptakomias"
       },
       "@id": "https://grammateus.unige.ch/document/36013"
     },
@@ -4225,10 +4327,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -4243,15 +4345,16 @@
       "properties": {
         "title": "SB 6 9139",
         "origPlace": "unbekannt",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
-        "label": "Unknown"
+        "coord_name": "Unknown"
       },
       "@id": "https://grammateus.unige.ch/document/36198"
     },
@@ -4264,10 +4367,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -4282,15 +4385,16 @@
       "properties": {
         "title": "P.K\u00f6ln 6 281",
         "origPlace": "unbekannt",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
-        "label": "Unknown"
+        "coord_name": "Unknown"
       },
       "@id": "https://grammateus.unige.ch/document/37292"
     },
@@ -4303,10 +4407,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -4321,17 +4425,18 @@
       "properties": {
         "title": "SB 22 15747",
         "origPlace": "Arsinoites",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
-        "label": "Arsinoites"
+        "coord_name": "Arsinoites"
       },
       "@id": "https://grammateus.unige.ch/document/37084"
     },
@@ -4344,10 +4449,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -4362,17 +4467,18 @@
       "properties": {
         "title": "SB 22 15755",
         "origPlace": "Arsinoites",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
-        "label": "Arsinoites"
+        "coord_name": "Arsinoites"
       },
       "@id": "https://grammateus.unige.ch/document/37090"
     },
@@ -4385,10 +4491,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -4403,15 +4509,16 @@
       "properties": {
         "title": "PSI 7 824",
         "origPlace": "unbekannt",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
-        "label": "Unknown"
+        "coord_name": "Unknown"
       },
       "@id": "https://grammateus.unige.ch/document/36188"
     },
@@ -4424,10 +4531,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0451"
+              "in": "0451-01-01"
             },
             "end": {
-              "in": "0500"
+              "in": "0500-12-31"
             }
           }
         ]
@@ -4442,15 +4549,16 @@
       "properties": {
         "title": "P.Heid. 7 409",
         "origPlace": "unbekannt",
-        "precision": "mid",
+        "origDate": "[0451-01-01/0500-12-31]",
+        "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          "5",
-          "6"
+          5,
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
-        "label": "Unknown"
+        "coord_name": "Unknown"
       },
       "@id": "https://grammateus.unige.ch/document/35495"
     },
@@ -4463,10 +4571,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0360"
+              "in": "0360-01-01"
             },
             "end": {
-              "in": "0360"
+              "in": "0360-12-31"
             }
           }
         ]
@@ -4481,16 +4589,17 @@
       "properties": {
         "title": "P.Gen. 4 176",
         "origPlace": "Arsinoites, \u00c4gypten",
-        "precision": "high",
+        "origDate": "[0360-01-01/0360-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "4"
+          4
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
-        "label": "Arsinoites"
+        "coord_name": "Arsinoites"
       },
       "@id": "https://grammateus.unige.ch/document/92762"
     },
@@ -4503,10 +4612,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0401"
+              "in": "0401-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -4521,18 +4630,19 @@
       "properties": {
         "title": "P.Jena 2 24",
         "origPlace": "Hermopolites",
-        "precision": "mid",
+        "origDate": "[0401-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "5",
-          "6",
-          "7"
+          5,
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
-        "label": "\u00c4gypten"
+        "coord_name": "\u00c4gypten"
       },
       "@id": "https://grammateus.unige.ch/document/128705"
     },
@@ -4545,10 +4655,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0301"
+              "in": "0301-01-01"
             },
             "end": {
-              "in": "0325"
+              "in": "0325-12-31"
             }
           }
         ]
@@ -4563,10 +4673,11 @@
       "properties": {
         "title": "CPR 6 47",
         "origPlace": "Pesla (Hermopolites) oder Hermopolis",
-        "precision": "mid",
+        "origDate": "[0301-01-01/0325-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "4"
+          4
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -4574,7 +4685,7 @@
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
         "settlement": "Pesla",
-        "label": "\u00c4gypten"
+        "coord_name": "\u00c4gypten"
       },
       "@id": "https://grammateus.unige.ch/document/32516"
     },
@@ -4587,10 +4698,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0300"
+              "in": "0300-01-01"
             },
             "end": {
-              "in": "0301"
+              "in": "0301-12-31"
             }
           }
         ]
@@ -4605,17 +4716,18 @@
       "properties": {
         "title": "CPR 6 14",
         "origPlace": "Pesla (Hermopolites) oder Hermopolis",
-        "precision": "mid",
+        "origDate": "[0300-01-01/0301-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "4"
+          4
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
         "settlement": "Pesla",
-        "label": "\u00c4gypten"
+        "coord_name": "\u00c4gypten"
       },
       "@id": "https://grammateus.unige.ch/document/15778"
     },
@@ -4646,17 +4758,18 @@
       "properties": {
         "title": "P.Oxy. 10 1335",
         "origPlace": "Oxyrhynchos",
-        "precision": "high",
+        "origDate": "0482-03-08",
+        "precision": "High",
         "provenance": "located",
         "centuries": [
-          "5"
+          5
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/21813"
     },
@@ -4669,10 +4782,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0401"
+              "in": "0401-01-01"
             },
             "end": {
-              "in": "0500"
+              "in": "0500-12-31"
             }
           }
         ]
@@ -4687,16 +4800,17 @@
       "properties": {
         "title": "SPP 8 1025",
         "origPlace": "Hermopolis (?)",
-        "precision": "mid",
+        "origDate": "[0401-01-01/0500-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "5",
-          "6"
+          5,
+          6
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "settlement": "Hermopolis",
-        "label": "Hermopolis"
+        "coord_name": "Hermopolis"
       },
       "@id": "https://grammateus.unige.ch/document/35669"
     },
@@ -4709,10 +4823,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0401"
+              "in": "0401-01-01"
             },
             "end": {
-              "in": "0500"
+              "in": "0500-12-31"
             }
           }
         ]
@@ -4727,15 +4841,16 @@
       "properties": {
         "title": "SB 14 11330",
         "origPlace": "unbekannt",
-        "precision": "mid",
+        "origDate": "[0401-01-01/0500-12-31]",
+        "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          "5",
-          "6"
+          5,
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
-        "label": "Unknown"
+        "coord_name": "Unknown"
       },
       "@id": "https://grammateus.unige.ch/document/35119"
     },
@@ -4748,10 +4863,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0548-07"
+              "in": "0548-07-01"
             },
             "end": {
-              "in": "0548-12"
+              "in": "0548-12-28"
             }
           }
         ]
@@ -4766,16 +4881,17 @@
       "properties": {
         "title": "SB 4 7438",
         "origPlace": "Konstantinopel oder Aphrodites Kome (Antaiopolites, \u00c4gypten)",
-        "precision": "mid",
+        "origDate": "[0548-07-01/0548-12-28]",
+        "precision": "Medium",
         "provenance": "composed",
         "centuries": [
-          "6"
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "Thracia",
         "settlement": "Konstantinopel",
-        "label": "Konstantinopel"
+        "coord_name": "Konstantinopel"
       },
       "@id": "https://grammateus.unige.ch/document/18048"
     },
@@ -4788,10 +4904,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0548-07"
+              "in": "0548-07-01"
             },
             "end": {
-              "in": "0548-12"
+              "in": "0548-12-28"
             }
           }
         ]
@@ -4806,17 +4922,18 @@
       "properties": {
         "title": "SB 4 7438",
         "origPlace": "Konstantinopel oder Aphrodites Kome (Antaiopolites, \u00c4gypten)",
-        "precision": "mid",
+        "origDate": "[0548-07-01/0548-12-28]",
+        "precision": "Medium",
         "provenance": "found",
         "centuries": [
-          "6"
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Antaiopolites",
         "settlement": "Aphrodites Kome",
-        "label": "Aphrodites Kome"
+        "coord_name": "Aphrodites Kome"
       },
       "@id": "https://grammateus.unige.ch/document/18048"
     },
@@ -4829,10 +4946,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -4847,17 +4964,18 @@
       "properties": {
         "title": "SB 22 15749",
         "origPlace": "Arsinoites",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
-        "label": "Arsinoites"
+        "coord_name": "Arsinoites"
       },
       "@id": "https://grammateus.unige.ch/document/37083"
     },
@@ -4870,10 +4988,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -4888,17 +5006,18 @@
       "properties": {
         "title": "P.Prag. 3 235",
         "origPlace": "Arsinoites",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
-        "label": "Arsinoites"
+        "coord_name": "Arsinoites"
       },
       "@id": "https://grammateus.unige.ch/document/130559"
     },
@@ -4911,10 +5030,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -4929,18 +5048,19 @@
       "properties": {
         "title": "P.Cair. Masp. 1 67067",
         "origPlace": "Aphrodites Kome (Antaiopolites)",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Antaiopolites",
         "settlement": "Aphrodites Kome",
-        "label": "Aphrodites Kome"
+        "coord_name": "Aphrodites Kome"
       },
       "@id": "https://grammateus.unige.ch/document/36809"
     },
@@ -4953,10 +5073,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0551"
+              "in": "0551-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -4971,17 +5091,18 @@
       "properties": {
         "title": "SB 6 9396",
         "origPlace": "Arsinoites",
-        "precision": "mid",
+        "origDate": "[0551-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
-        "label": "Arsinoites"
+        "coord_name": "Arsinoites"
       },
       "@id": "https://grammateus.unige.ch/document/36835"
     },
@@ -4994,10 +5115,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0401"
+              "in": "0401-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -5012,18 +5133,19 @@
       "properties": {
         "title": "P.Jena 2 25",
         "origPlace": "Hermopolites",
-        "precision": "mid",
+        "origDate": "[0401-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "5",
-          "6",
-          "7"
+          5,
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
-        "label": "\u00c4gypten"
+        "coord_name": "\u00c4gypten"
       },
       "@id": "https://grammateus.unige.ch/document/128706"
     },
@@ -5036,10 +5158,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -5054,18 +5176,19 @@
       "properties": {
         "title": "P.Oxy. 6 941",
         "origPlace": "Oxyrhynchos",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/37134"
     },
@@ -5078,10 +5201,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -5096,18 +5219,19 @@
       "properties": {
         "title": "P.Oxy. 16 1842",
         "origPlace": "Oxyrhynchos",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/37849"
     },
@@ -5120,10 +5244,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0401"
+              "in": "0401-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -5138,18 +5262,19 @@
       "properties": {
         "title": "P.Jena 2 26",
         "origPlace": "Hermopolites",
-        "precision": "mid",
+        "origDate": "[0401-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "5",
-          "6",
-          "7"
+          5,
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
-        "label": "\u00c4gypten"
+        "coord_name": "\u00c4gypten"
       },
       "@id": "https://grammateus.unige.ch/document/128707"
     },
@@ -5162,10 +5287,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -5180,18 +5305,19 @@
       "properties": {
         "title": "P.Cair. Masp. 1 67066",
         "origPlace": "Aphrodites Kome (Antaiopolites)",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Antaiopolites",
         "settlement": "Aphrodites Kome",
-        "label": "Aphrodites Kome"
+        "coord_name": "Aphrodites Kome"
       },
       "@id": "https://grammateus.unige.ch/document/36808"
     },
@@ -5222,16 +5348,17 @@
       "properties": {
         "title": "P.Oxy. 72 4929",
         "origPlace": "Oxyrhynchites",
-        "precision": "high",
+        "origDate": "0564-05-27",
+        "precision": "High",
         "provenance": "located",
         "centuries": [
-          "6"
+          6
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "label": "Oxyrhynchites"
+        "coord_name": "Oxyrhynchites"
       },
       "@id": "https://grammateus.unige.ch/document/114310"
     },
@@ -5244,10 +5371,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0550"
+              "in": "0550-01-01"
             },
             "end": {
-              "in": "0558"
+              "in": "0558-12-31"
             }
           }
         ]
@@ -5262,17 +5389,18 @@
       "properties": {
         "title": "SB 6 9616 R",
         "origPlace": "Antinoopolis",
-        "precision": "mid",
+        "origDate": "[0550-01-01/0558-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6"
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Antinoites",
         "settlement": "Antinoopolis",
-        "label": "Antinoopolis"
+        "coord_name": "Antinoopolis"
       },
       "@id": "https://grammateus.unige.ch/document/19132"
     },
@@ -5285,10 +5413,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0325"
+              "in": "0325-01-01"
             },
             "end": {
-              "in": "0325"
+              "in": "0325-12-31"
             }
           }
         ]
@@ -5303,14 +5431,15 @@
       "properties": {
         "title": "PSI 7 825",
         "origPlace": "unbekannt",
-        "precision": "high",
+        "origDate": "[0325-01-01/0325-12-31]",
+        "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          "4"
+          4
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
-        "label": "Unknown"
+        "coord_name": "Unknown"
       },
       "@id": "https://grammateus.unige.ch/document/17679"
     },
@@ -5323,10 +5452,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0577-05"
+              "in": "0577-05-01"
             },
             "end": {
-              "in": "0583-12"
+              "in": "0583-12-28"
             }
           }
         ]
@@ -5341,17 +5470,18 @@
       "properties": {
         "title": "P.Oxy. 16 1829",
         "origPlace": "Oxyrhynchos",
-        "precision": "mid",
+        "origDate": "[0577-05-01/0583-12-28]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6"
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/22007"
     },
@@ -5364,10 +5494,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0401"
+              "in": "0401-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -5382,19 +5512,20 @@
       "properties": {
         "title": "P.Oxy. 10 1350",
         "origPlace": "Oxyrhynchos",
-        "precision": "mid",
+        "origDate": "[0401-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "5",
-          "6",
-          "7"
+          5,
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/35590"
     },
@@ -5407,10 +5538,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -5425,18 +5556,19 @@
       "properties": {
         "title": "P.Oxy. 1 157",
         "origPlace": "Oxyrhynchos",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/37146"
     },
@@ -5449,10 +5581,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -5467,17 +5599,18 @@
       "properties": {
         "title": "SB 22 15745",
         "origPlace": "Arsinoites",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
-        "label": "Arsinoites"
+        "coord_name": "Arsinoites"
       },
       "@id": "https://grammateus.unige.ch/document/36264"
     },
@@ -5508,10 +5641,11 @@
       "properties": {
         "title": "P.Wisc. 2 63",
         "origPlace": "Oxyrhynchos",
-        "precision": "high",
+        "origDate": "0410-08-09",
+        "precision": "High",
         "provenance": "located",
         "centuries": [
-          "5"
+          5
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -5519,7 +5653,7 @@
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/15899"
     },
@@ -5532,10 +5666,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0301"
+              "in": "0301-01-01"
             },
             "end": {
-              "in": "0500"
+              "in": "0500-12-31"
             }
           }
         ]
@@ -5550,19 +5684,20 @@
       "properties": {
         "title": "SPP 8 983",
         "origPlace": "Hermopolites",
-        "precision": "mid",
+        "origDate": "[0301-01-01/0500-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "4",
-          "5",
-          "6"
+          4,
+          5,
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
-        "label": "\u00c4gypten"
+        "coord_name": "\u00c4gypten"
       },
       "@id": "https://grammateus.unige.ch/document/33686"
     },
@@ -5575,10 +5710,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0550"
+              "in": "0550-01-01"
             },
             "end": {
-              "in": "0558"
+              "in": "0558-12-31"
             }
           }
         ]
@@ -5593,17 +5728,18 @@
       "properties": {
         "title": "SB 6 9616 V",
         "origPlace": "Antinoopolis",
-        "precision": "mid",
+        "origDate": "[0550-01-01/0558-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6"
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Antinoites",
         "settlement": "Antinoopolis",
-        "label": "Antinoopolis"
+        "coord_name": "Antinoopolis"
       },
       "@id": "https://grammateus.unige.ch/document/19133"
     },
@@ -5616,10 +5752,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -5634,18 +5770,19 @@
       "properties": {
         "title": "SB 6 9608",
         "origPlace": "Koma (Arsinoites)",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
         "settlement": "Koma",
-        "label": "Koma"
+        "coord_name": "Koma"
       },
       "@id": "https://grammateus.unige.ch/document/36846"
     },
@@ -5658,10 +5795,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0314"
+              "in": "0314-01-01"
             },
             "end": {
-              "in": "0324"
+              "in": "0324-12-31"
             }
           }
         ]
@@ -5676,17 +5813,18 @@
       "properties": {
         "title": "P.Ryl. 4 607",
         "origPlace": "Antinoopolis",
-        "precision": "mid",
+        "origDate": "[0314-01-01/0324-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "4"
+          4
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Antinoites",
         "settlement": "Antinoopolis",
-        "label": "Antinoopolis"
+        "coord_name": "Antinoopolis"
       },
       "@id": "https://grammateus.unige.ch/document/17308"
     },
@@ -5699,10 +5837,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0401"
+              "in": "0401-01-01"
             },
             "end": {
-              "in": "0450"
+              "in": "0450-12-31"
             }
           }
         ]
@@ -5717,16 +5855,17 @@
       "properties": {
         "title": "BGU 4 1035",
         "origPlace": "Arsinoites",
-        "precision": "mid",
+        "origDate": "[0401-01-01/0450-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "5"
+          5
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
-        "label": "Arsinoites"
+        "coord_name": "Arsinoites"
       },
       "@id": "https://grammateus.unige.ch/document/35181"
     },
@@ -5739,10 +5878,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0700"
+              "in": "0700-12-31"
             }
           }
         ]
@@ -5757,18 +5896,19 @@
       "properties": {
         "title": "P.Lond. 3 1309 (S. 251)",
         "origPlace": "Hermopolites",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0700-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7",
-          "8"
+          6,
+          7,
+          8
         ],
         "type": "Transmission of Information ",
         "subtype": "Warrant (TI)",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
-        "label": "\u00c4gypten"
+        "coord_name": "\u00c4gypten"
       },
       "@id": "https://grammateus.unige.ch/document/38314"
     },
@@ -5781,10 +5921,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0317"
+              "in": "0317-01-01"
             },
             "end": {
-              "in": "0323"
+              "in": "0323-12-31"
             }
           }
         ]
@@ -5799,15 +5939,16 @@
       "properties": {
         "title": "P.Herm. 4",
         "origPlace": "Hermopolis (?)",
-        "precision": "mid",
+        "origDate": "[0317-01-01/0323-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "4"
+          4
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "settlement": "Hermopolis",
-        "label": "Hermopolis"
+        "coord_name": "Hermopolis"
       },
       "@id": "https://grammateus.unige.ch/document/21123"
     },
@@ -5838,16 +5979,17 @@
       "properties": {
         "title": "P.Oxy. 72 4926",
         "origPlace": "Oxyrhynchites",
-        "precision": "high",
+        "origDate": "0564-05-21",
+        "precision": "High",
         "provenance": "located",
         "centuries": [
-          "6"
+          6
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "label": "Oxyrhynchites"
+        "coord_name": "Oxyrhynchites"
       },
       "@id": "https://grammateus.unige.ch/document/114307"
     },
@@ -5878,17 +6020,18 @@
       "properties": {
         "title": "P.Oxy. 16 1863",
         "origPlace": "Oxyrhynchos",
-        "precision": "high",
+        "origDate": "0624-07-25",
+        "precision": "High",
         "provenance": "located",
         "centuries": [
-          "7"
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/22010"
     },
@@ -5901,10 +6044,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -5919,18 +6062,19 @@
       "properties": {
         "title": "P.Oxy. 1 156",
         "origPlace": "Oxyrhynchos",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/37145"
     },
@@ -5943,10 +6087,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -5961,18 +6105,19 @@
       "properties": {
         "title": "P.Oxy. 1 155",
         "origPlace": "Oxyrhynchos",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/37144"
     },
@@ -5985,10 +6130,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0026"
+              "in": "0026-01-01"
             },
             "end": {
-              "in": "0175"
+              "in": "0175-12-31"
             }
           }
         ]
@@ -6003,18 +6148,19 @@
       "properties": {
         "title": "BGU 20 2861",
         "origPlace": "Ptolemais Hormu (Arsinoites)",
-        "precision": "mid",
+        "origDate": "[0026-01-01/0175-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "1",
-          "2"
+          1,
+          2
         ],
         "type": "Transmission of Information ",
         "subtype": "Warrant (TI)",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
         "settlement": "Ptolemais Hormu",
-        "label": "Ptolemais Hormu"
+        "coord_name": "Ptolemais Hormu"
       },
       "@id": "https://grammateus.unige.ch/document/316224"
     },
@@ -6027,10 +6173,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0376"
+              "in": "0376-01-01"
             },
             "end": {
-              "in": "0400"
+              "in": "0400-12-31"
             }
           }
         ]
@@ -6045,16 +6191,17 @@
       "properties": {
         "title": "SB 16 12623",
         "origPlace": "unbekannt",
-        "precision": "mid",
+        "origDate": "[0376-01-01/0400-12-31]",
+        "precision": "Medium",
         "provenance": "unknown",
         "centuries": [
-          "4",
-          "5"
+          4,
+          5
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
-        "label": "Unknown"
+        "coord_name": "Unknown"
       },
       "@id": "https://grammateus.unige.ch/document/32819"
     },
@@ -6067,10 +6214,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0476"
+              "in": "0476-01-01"
             },
             "end": {
-              "in": "0525"
+              "in": "0525-12-31"
             }
           }
         ]
@@ -6085,18 +6232,19 @@
       "properties": {
         "title": "P.Oxy. 16 1834",
         "origPlace": "Oxyrhynchos",
-        "precision": "mid",
+        "origDate": "[0476-01-01/0525-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "5",
-          "6"
+          5,
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/35596"
     },
@@ -6109,10 +6257,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -6127,17 +6275,18 @@
       "properties": {
         "title": "SB 22 15753",
         "origPlace": "Arsinoites",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
-        "label": "Arsinoites"
+        "coord_name": "Arsinoites"
       },
       "@id": "https://grammateus.unige.ch/document/36262"
     },
@@ -6150,10 +6299,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0550"
+              "in": "0550-12-31"
             }
           }
         ]
@@ -6168,17 +6317,18 @@
       "properties": {
         "title": "P.Oxy. 16 1929",
         "origPlace": "Oxyrhynchos",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0550-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6"
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/33680"
     },
@@ -6209,17 +6359,18 @@
       "properties": {
         "title": "PSI 9 1073",
         "origPlace": "Oxyrhynchites",
-        "precision": "high",
+        "origDate": "0389-01-20",
+        "precision": "High",
         "provenance": "located",
         "centuries": [
-          "4"
+          4
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "label": "Oxyrhynchites"
+        "coord_name": "Oxyrhynchites"
       },
       "@id": "https://grammateus.unige.ch/document/17481"
     },
@@ -6232,10 +6383,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0301"
+              "in": "0301-01-01"
             },
             "end": {
-              "in": "0400"
+              "in": "0400-12-31"
             }
           }
         ]
@@ -6250,18 +6401,19 @@
       "properties": {
         "title": "CPR 8 42",
         "origPlace": "Hermopolites",
-        "precision": "mid",
+        "origDate": "[0301-01-01/0400-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "4",
-          "5"
+          4,
+          5
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
-        "label": "\u00c4gypten"
+        "coord_name": "\u00c4gypten"
       },
       "@id": "https://grammateus.unige.ch/document/32365"
     },
@@ -6274,10 +6426,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -6292,17 +6444,18 @@
       "properties": {
         "title": "P.Wash. Univ. 1 8",
         "origPlace": "Oxyrhynchites (?)",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
-        "label": "Oxyrhynchites"
+        "coord_name": "Oxyrhynchites"
       },
       "@id": "https://grammateus.unige.ch/document/35967"
     },
@@ -6315,10 +6468,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0401"
+              "in": "0401-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -6333,19 +6486,20 @@
       "properties": {
         "title": "P.Oxy. 16 1832",
         "origPlace": "Oxyrhynchos",
-        "precision": "mid",
+        "origDate": "[0401-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "5",
-          "6",
-          "7"
+          5,
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/35594"
     },
@@ -6376,10 +6530,11 @@
       "properties": {
         "title": "BASP 57 (2020) S. 329 Nr . 1",
         "origPlace": "Oxyrhynchos",
-        "precision": "high",
+        "origDate": "0379-04-26",
+        "precision": "High",
         "provenance": "located",
         "centuries": [
-          "4"
+          4
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
@@ -6387,7 +6542,7 @@
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "settlement": "Oxyrhynchos",
-        "label": "Oxyrhynchos"
+        "coord_name": "Oxyrhynchos"
       },
       "@id": "https://grammateus.unige.ch/document/22003"
     },
@@ -6400,10 +6555,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0501"
+              "in": "0501-01-01"
             },
             "end": {
-              "in": "0600"
+              "in": "0600-12-31"
             }
           }
         ]
@@ -6418,18 +6573,19 @@
       "properties": {
         "title": "P.Fouad 89",
         "origPlace": "Aphrodites Kome (Antaiopolites)",
-        "precision": "mid",
+        "origDate": "[0501-01-01/0600-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "6",
-          "7"
+          6,
+          7
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Antaiopolites",
         "settlement": "Aphrodites Kome",
-        "label": "Aphrodites Kome"
+        "coord_name": "Aphrodites Kome"
       },
       "@id": "https://grammateus.unige.ch/document/37234"
     },
@@ -6442,10 +6598,10 @@
         "timespans": [
           {
             "start": {
-              "in": "0401"
+              "in": "0401-01-01"
             },
             "end": {
-              "in": "0500"
+              "in": "0500-12-31"
             }
           }
         ]
@@ -6460,18 +6616,19 @@
       "properties": {
         "title": "SPP 20 164",
         "origPlace": "Herakleopolites",
-        "precision": "mid",
+        "origDate": "[0401-01-01/0500-12-31]",
+        "precision": "Medium",
         "provenance": "located",
         "centuries": [
-          "5",
-          "6"
+          5,
+          6
         ],
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
         "region": "\u00c4gypten",
         "nome": "Herakleopolites",
-        "label": "Herakleopolites"
+        "coord_name": "Herakleopolites"
       },
       "@id": "https://grammateus.unige.ch/document/35190"
     }
