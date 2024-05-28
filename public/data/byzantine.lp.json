@@ -36,12 +36,13 @@
           "4",
           "5"
         ],
+        "url": "https://grammateus.unige.ch/document/32816",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
         "label": "Unknown"
       },
-      "@id": "https://grammateus.unige.ch/document/32816"
+      "@id": "32816_unknown"
     },
     {
       "type": "Feature",
@@ -76,6 +77,7 @@
           "4",
           "5"
         ],
+        "url": "https://grammateus.unige.ch/document/33711",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -83,7 +85,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/33711"
+      "@id": "33711_located"
     },
     {
       "type": "Feature",
@@ -117,6 +119,7 @@
         "centuries": [
           "4"
         ],
+        "url": "https://grammateus.unige.ch/document/17664",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -125,7 +128,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/17664"
+      "@id": "17664_located"
     },
     {
       "type": "Feature",
@@ -161,11 +164,12 @@
           "7",
           "8"
         ],
+        "url": "https://grammateus.unige.ch/document/704796",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "label": "Unknown"
       },
-      "@id": "https://grammateus.unige.ch/document/704796"
+      "@id": "704796_unknown"
     },
     {
       "type": "Feature",
@@ -199,13 +203,14 @@
         "centuries": [
           "5"
         ],
+        "url": "https://grammateus.unige.ch/document/50665",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "label": "Oxyrhynchites"
       },
-      "@id": "https://grammateus.unige.ch/document/50665"
+      "@id": "50665_located"
     },
     {
       "type": "Feature",
@@ -239,13 +244,14 @@
         "centuries": [
           "5"
         ],
+        "url": "https://grammateus.unige.ch/document/50664",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "label": "Oxyrhynchites"
       },
-      "@id": "https://grammateus.unige.ch/document/50664"
+      "@id": "50664_located"
     },
     {
       "type": "Feature",
@@ -280,6 +286,7 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/38527",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -287,7 +294,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/38527"
+      "@id": "38527_located"
     },
     {
       "type": "Feature",
@@ -323,6 +330,7 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/35598",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -330,7 +338,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/35598"
+      "@id": "35598_located"
     },
     {
       "type": "Feature",
@@ -366,6 +374,7 @@
           "5",
           "6"
         ],
+        "url": "https://grammateus.unige.ch/document/34876",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -373,7 +382,7 @@
         "settlement": "Philadelphia",
         "label": "Philadelphia"
       },
-      "@id": "https://grammateus.unige.ch/document/34876"
+      "@id": "34876_located"
     },
     {
       "type": "Feature",
@@ -408,11 +417,12 @@
           "5",
           "6"
         ],
+        "url": "https://grammateus.unige.ch/document/35413",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "label": "Unknown"
       },
-      "@id": "https://grammateus.unige.ch/document/35413"
+      "@id": "35413_unknown"
     },
     {
       "type": "Feature",
@@ -447,6 +457,7 @@
           "5",
           "6"
         ],
+        "url": "https://grammateus.unige.ch/document/35607",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -454,7 +465,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/35607"
+      "@id": "35607_located"
     },
     {
       "type": "Feature",
@@ -488,6 +499,7 @@
         "centuries": [
           "4"
         ],
+        "url": "https://grammateus.unige.ch/document/22179",
         "type": "Transmission of Information ",
         "subtype": "Warrant (TI)",
         "region": "\u00c4gypten",
@@ -495,7 +507,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/22179"
+      "@id": "22179_located"
     },
     {
       "type": "Feature",
@@ -530,13 +542,14 @@
           "5",
           "6"
         ],
+        "url": "https://grammateus.unige.ch/document/36865",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
         "label": "Arsinoites"
       },
-      "@id": "https://grammateus.unige.ch/document/36865"
+      "@id": "36865_located"
     },
     {
       "type": "Feature",
@@ -572,13 +585,14 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/35203",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
         "label": "Arsinoites"
       },
-      "@id": "https://grammateus.unige.ch/document/35203"
+      "@id": "35203_located"
     },
     {
       "type": "Feature",
@@ -613,13 +627,14 @@
           "4",
           "5"
         ],
+        "url": "https://grammateus.unige.ch/document/78667",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "label": "Oxyrhynchites"
       },
-      "@id": "https://grammateus.unige.ch/document/78667"
+      "@id": "78667_located"
     },
     {
       "type": "Feature",
@@ -653,6 +668,7 @@
         "centuries": [
           "4"
         ],
+        "url": "https://grammateus.unige.ch/document/45280",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -660,7 +676,7 @@
         "settlement": "Pesla",
         "label": "\u00c4gypten"
       },
-      "@id": "https://grammateus.unige.ch/document/45280"
+      "@id": "45280_located"
     },
     {
       "type": "Feature",
@@ -694,13 +710,14 @@
         "centuries": [
           "5"
         ],
+        "url": "https://grammateus.unige.ch/document/50666",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "label": "Oxyrhynchites"
       },
-      "@id": "https://grammateus.unige.ch/document/50666"
+      "@id": "50666_located"
     },
     {
       "type": "Feature",
@@ -735,13 +752,14 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/35940",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "label": "Oxyrhynchites"
       },
-      "@id": "https://grammateus.unige.ch/document/35940"
+      "@id": "35940_located"
     },
     {
       "type": "Feature",
@@ -777,6 +795,7 @@
           "7",
           "8"
         ],
+        "url": "https://grammateus.unige.ch/document/38524",
         "type": "Transmission of Information ",
         "subtype": "Warrant (TI)",
         "region": "\u00c4gypten",
@@ -784,7 +803,7 @@
         "settlement": "Hermopolis",
         "label": "Hermopolis"
       },
-      "@id": "https://grammateus.unige.ch/document/38524"
+      "@id": "38524_located"
     },
     {
       "type": "Feature",
@@ -818,6 +837,7 @@
         "centuries": [
           "4"
         ],
+        "url": "https://grammateus.unige.ch/document/45281",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -826,7 +846,7 @@
         "settlement": "Pesla",
         "label": "\u00c4gypten"
       },
-      "@id": "https://grammateus.unige.ch/document/45281"
+      "@id": "45281_located"
     },
     {
       "type": "Feature",
@@ -861,6 +881,7 @@
           "4",
           "5"
         ],
+        "url": "https://grammateus.unige.ch/document/32357",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -868,7 +889,7 @@
         "nome": "Hermopolites",
         "label": "\u00c4gypten"
       },
-      "@id": "https://grammateus.unige.ch/document/32357"
+      "@id": "32357_located"
     },
     {
       "type": "Feature",
@@ -903,11 +924,12 @@
           "4",
           "5"
         ],
+        "url": "https://grammateus.unige.ch/document/33263",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "label": "Unknown"
       },
-      "@id": "https://grammateus.unige.ch/document/33263"
+      "@id": "33263_unknown"
     },
     {
       "type": "Feature",
@@ -943,11 +965,12 @@
           "5",
           "6"
         ],
+        "url": "https://grammateus.unige.ch/document/33059",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "label": "Unknown"
       },
-      "@id": "https://grammateus.unige.ch/document/33059"
+      "@id": "33059_unknown"
     },
     {
       "type": "Feature",
@@ -982,6 +1005,7 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/36848",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -989,7 +1013,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/36848"
+      "@id": "36848_located"
     },
     {
       "type": "Feature",
@@ -1025,11 +1049,12 @@
           "7",
           "8"
         ],
+        "url": "https://grammateus.unige.ch/document/36055",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "label": "Unknown"
       },
-      "@id": "https://grammateus.unige.ch/document/36055"
+      "@id": "36055_unknown"
     },
     {
       "type": "Feature",
@@ -1064,6 +1089,7 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/36531",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -1071,7 +1097,7 @@
         "settlement": "Antaiopolis",
         "label": "Antaiopolis"
       },
-      "@id": "https://grammateus.unige.ch/document/36531"
+      "@id": "36531_located"
     },
     {
       "type": "Feature",
@@ -1105,13 +1131,14 @@
         "centuries": [
           "5"
         ],
+        "url": "https://grammateus.unige.ch/document/50663",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "label": "Oxyrhynchites"
       },
-      "@id": "https://grammateus.unige.ch/document/50663"
+      "@id": "50663_located"
     },
     {
       "type": "Feature",
@@ -1145,6 +1172,7 @@
         "centuries": [
           "6"
         ],
+        "url": "https://grammateus.unige.ch/document/41035",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -1152,7 +1180,7 @@
         "settlement": "Arsinoiton Polis",
         "label": "Arsinoiton Polis"
       },
-      "@id": "https://grammateus.unige.ch/document/41035"
+      "@id": "41035_located"
     },
     {
       "type": "Feature",
@@ -1186,6 +1214,7 @@
         "centuries": [
           "5"
         ],
+        "url": "https://grammateus.unige.ch/document/702445",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -1193,7 +1222,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/702445"
+      "@id": "702445_located"
     },
     {
       "type": "Feature",
@@ -1227,6 +1256,7 @@
         "centuries": [
           "4"
         ],
+        "url": "https://grammateus.unige.ch/document/45284",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -1234,7 +1264,7 @@
         "settlement": "Pesla",
         "label": "\u00c4gypten"
       },
-      "@id": "https://grammateus.unige.ch/document/45284"
+      "@id": "45284_located"
     },
     {
       "type": "Feature",
@@ -1269,11 +1299,12 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/38521",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "label": "Unknown"
       },
-      "@id": "https://grammateus.unige.ch/document/38521"
+      "@id": "38521_unknown"
     },
     {
       "type": "Feature",
@@ -1307,6 +1338,7 @@
         "centuries": [
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/22009",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -1314,7 +1346,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/22009"
+      "@id": "22009_located"
     },
     {
       "type": "Feature",
@@ -1348,6 +1380,7 @@
         "centuries": [
           "6"
         ],
+        "url": "https://grammateus.unige.ch/document/36040",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -1355,7 +1388,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/36040"
+      "@id": "36040_located"
     },
     {
       "type": "Feature",
@@ -1390,6 +1423,7 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/36108",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -1397,7 +1431,7 @@
         "settlement": "Ankyron",
         "label": "Ankyron"
       },
-      "@id": "https://grammateus.unige.ch/document/36108"
+      "@id": "36108_located"
     },
     {
       "type": "Feature",
@@ -1432,13 +1466,14 @@
           "4",
           "5"
         ],
+        "url": "https://grammateus.unige.ch/document/32352",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
         "label": "\u00c4gypten"
       },
-      "@id": "https://grammateus.unige.ch/document/32352"
+      "@id": "32352_located"
     },
     {
       "type": "Feature",
@@ -1473,6 +1508,7 @@
           "5",
           "6"
         ],
+        "url": "https://grammateus.unige.ch/document/35601",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -1480,7 +1516,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/35601"
+      "@id": "35601_located"
     },
     {
       "type": "Feature",
@@ -1515,13 +1551,14 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/43230",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
         "label": "Arsinoites"
       },
-      "@id": "https://grammateus.unige.ch/document/43230"
+      "@id": "43230_located"
     },
     {
       "type": "Feature",
@@ -1556,6 +1593,7 @@
           "5",
           "6"
         ],
+        "url": "https://grammateus.unige.ch/document/35577",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -1563,7 +1601,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/35577"
+      "@id": "35577_located"
     },
     {
       "type": "Feature",
@@ -1597,6 +1635,7 @@
         "centuries": [
           "4"
         ],
+        "url": "https://grammateus.unige.ch/document/45279",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -1604,7 +1643,7 @@
         "settlement": "Pesla",
         "label": "\u00c4gypten"
       },
-      "@id": "https://grammateus.unige.ch/document/45279"
+      "@id": "45279_located"
     },
     {
       "type": "Feature",
@@ -1638,6 +1677,7 @@
         "centuries": [
           "4"
         ],
+        "url": "https://grammateus.unige.ch/document/45278",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -1645,7 +1685,7 @@
         "settlement": "Pesla",
         "label": "\u00c4gypten"
       },
-      "@id": "https://grammateus.unige.ch/document/45278"
+      "@id": "45278_located"
     },
     {
       "type": "Feature",
@@ -1679,13 +1719,14 @@
         "centuries": [
           "6"
         ],
+        "url": "https://grammateus.unige.ch/document/114309",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "label": "Oxyrhynchites"
       },
-      "@id": "https://grammateus.unige.ch/document/114309"
+      "@id": "114309_located"
     },
     {
       "type": "Feature",
@@ -1720,6 +1761,7 @@
           "5",
           "6"
         ],
+        "url": "https://grammateus.unige.ch/document/35600",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -1727,7 +1769,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/35600"
+      "@id": "35600_located"
     },
     {
       "type": "Feature",
@@ -1763,6 +1805,7 @@
           "5",
           "6"
         ],
+        "url": "https://grammateus.unige.ch/document/32646",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -1770,7 +1813,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/32646"
+      "@id": "32646_located"
     },
     {
       "type": "Feature",
@@ -1804,6 +1847,7 @@
         "centuries": [
           "4"
         ],
+        "url": "https://grammateus.unige.ch/document/20040",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -1812,7 +1856,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/20040"
+      "@id": "20040_located"
     },
     {
       "type": "Feature",
@@ -1846,6 +1890,7 @@
         "centuries": [
           "4"
         ],
+        "url": "https://grammateus.unige.ch/document/15776",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -1853,7 +1898,7 @@
         "settlement": "Pesla",
         "label": "\u00c4gypten"
       },
-      "@id": "https://grammateus.unige.ch/document/15776"
+      "@id": "15776_located"
     },
     {
       "type": "Feature",
@@ -1890,12 +1935,13 @@
           "7",
           "8"
         ],
+        "url": "https://grammateus.unige.ch/document/34784",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "settlement": "Hermopolis",
         "label": "Hermopolis"
       },
-      "@id": "https://grammateus.unige.ch/document/34784"
+      "@id": "34784_located"
     },
     {
       "type": "Feature",
@@ -1930,13 +1976,14 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/38035",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
         "label": "\u00c4gypten"
       },
-      "@id": "https://grammateus.unige.ch/document/38035"
+      "@id": "38035_located"
     },
     {
       "type": "Feature",
@@ -1970,6 +2017,7 @@
         "centuries": [
           "6"
         ],
+        "url": "https://grammateus.unige.ch/document/22051",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -1977,7 +2025,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/22051"
+      "@id": "22051_located"
     },
     {
       "type": "Feature",
@@ -2012,6 +2060,7 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/37845",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -2019,7 +2068,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/37845"
+      "@id": "37845_located"
     },
     {
       "type": "Feature",
@@ -2053,6 +2102,7 @@
         "centuries": [
           "4"
         ],
+        "url": "https://grammateus.unige.ch/document/15398",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -2060,7 +2110,7 @@
         "settlement": "Herakleopolis",
         "label": "Herakleopolis"
       },
-      "@id": "https://grammateus.unige.ch/document/15398"
+      "@id": "15398_located"
     },
     {
       "type": "Feature",
@@ -2095,6 +2145,7 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/37887",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -2102,7 +2153,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/37887"
+      "@id": "37887_located"
     },
     {
       "type": "Feature",
@@ -2137,13 +2188,14 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/38034",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
         "label": "\u00c4gypten"
       },
-      "@id": "https://grammateus.unige.ch/document/38034"
+      "@id": "38034_located"
     },
     {
       "type": "Feature",
@@ -2180,12 +2232,13 @@
           "7",
           "8"
         ],
+        "url": "https://grammateus.unige.ch/document/34785",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "settlement": "Hermopolis",
         "label": "Hermopolis"
       },
-      "@id": "https://grammateus.unige.ch/document/34785"
+      "@id": "34785_located"
     },
     {
       "type": "Feature",
@@ -2220,6 +2273,7 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/36810",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -2227,7 +2281,7 @@
         "settlement": "Aphrodites Kome",
         "label": "Aphrodites Kome"
       },
-      "@id": "https://grammateus.unige.ch/document/36810"
+      "@id": "36810_located"
     },
     {
       "type": "Feature",
@@ -2261,6 +2315,7 @@
         "centuries": [
           "6"
         ],
+        "url": "https://grammateus.unige.ch/document/36804",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -2268,7 +2323,7 @@
         "settlement": "Antaiopolis",
         "label": "Antaiopolis"
       },
-      "@id": "https://grammateus.unige.ch/document/36804"
+      "@id": "36804_located"
     },
     {
       "type": "Feature",
@@ -2303,13 +2358,14 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/130554",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
         "label": "Arsinoites"
       },
-      "@id": "https://grammateus.unige.ch/document/130554"
+      "@id": "130554_located"
     },
     {
       "type": "Feature",
@@ -2344,13 +2400,14 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/35855",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Herakleopolites",
         "label": "Herakleopolites"
       },
-      "@id": "https://grammateus.unige.ch/document/35855"
+      "@id": "35855_located"
     },
     {
       "type": "Feature",
@@ -2385,12 +2442,13 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/38395",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "settlement": "Alexandria",
         "label": "Alexandria"
       },
-      "@id": "https://grammateus.unige.ch/document/38395"
+      "@id": "38395_located"
     },
     {
       "type": "Feature",
@@ -2426,6 +2484,7 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/35672",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -2433,7 +2492,7 @@
         "settlement": "Hermopolis",
         "label": "Hermopolis"
       },
-      "@id": "https://grammateus.unige.ch/document/35672"
+      "@id": "35672_located"
     },
     {
       "type": "Feature",
@@ -2467,13 +2526,14 @@
         "centuries": [
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/35857",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Memphites",
         "label": "Memphites"
       },
-      "@id": "https://grammateus.unige.ch/document/35857"
+      "@id": "35857_located"
     },
     {
       "type": "Feature",
@@ -2508,6 +2568,7 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/36812",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -2515,7 +2576,7 @@
         "settlement": "Aphrodites Kome",
         "label": "Aphrodites Kome"
       },
-      "@id": "https://grammateus.unige.ch/document/36812"
+      "@id": "36812_located"
     },
     {
       "type": "Feature",
@@ -2550,13 +2611,14 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/38036",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
         "label": "\u00c4gypten"
       },
-      "@id": "https://grammateus.unige.ch/document/38036"
+      "@id": "38036_located"
     },
     {
       "type": "Feature",
@@ -2591,6 +2653,7 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/37847",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -2598,7 +2661,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/37847"
+      "@id": "37847_located"
     },
     {
       "type": "Feature",
@@ -2633,13 +2696,14 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/37089",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
         "label": "Arsinoites"
       },
-      "@id": "https://grammateus.unige.ch/document/37089"
+      "@id": "37089_located"
     },
     {
       "type": "Feature",
@@ -2673,6 +2737,7 @@
         "centuries": [
           "6"
         ],
+        "url": "https://grammateus.unige.ch/document/36803",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -2680,7 +2745,7 @@
         "settlement": "Antaiopolis",
         "label": "Antaiopolis"
       },
-      "@id": "https://grammateus.unige.ch/document/36803"
+      "@id": "36803_located"
     },
     {
       "type": "Feature",
@@ -2715,6 +2780,7 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/37466",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -2722,7 +2788,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/37466"
+      "@id": "37466_located"
     },
     {
       "type": "Feature",
@@ -2756,6 +2822,7 @@
         "centuries": [
           "6"
         ],
+        "url": "https://grammateus.unige.ch/document/37894",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -2763,7 +2830,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/37894"
+      "@id": "37894_located"
     },
     {
       "type": "Feature",
@@ -2797,6 +2864,7 @@
         "centuries": [
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/15360",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -2804,7 +2872,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/15360"
+      "@id": "15360_located"
     },
     {
       "type": "Feature",
@@ -2839,6 +2907,7 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/38556",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -2846,7 +2915,7 @@
         "settlement": "Antinoopolis",
         "label": "Antinoopolis"
       },
-      "@id": "https://grammateus.unige.ch/document/38556"
+      "@id": "38556_located"
     },
     {
       "type": "Feature",
@@ -2882,13 +2951,14 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/34783",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Herakleopolites",
         "label": "Herakleopolites"
       },
-      "@id": "https://grammateus.unige.ch/document/34783"
+      "@id": "34783_located"
     },
     {
       "type": "Feature",
@@ -2922,6 +2992,7 @@
         "centuries": [
           "6"
         ],
+        "url": "https://grammateus.unige.ch/document/35310",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -2929,7 +3000,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/35310"
+      "@id": "35310_located"
     },
     {
       "type": "Feature",
@@ -2964,13 +3035,14 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/130552",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
         "label": "Arsinoites"
       },
-      "@id": "https://grammateus.unige.ch/document/130552"
+      "@id": "130552_located"
     },
     {
       "type": "Feature",
@@ -3005,13 +3077,14 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/36631",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Herakleopolites",
         "label": "Herakleopolites"
       },
-      "@id": "https://grammateus.unige.ch/document/36631"
+      "@id": "36631_located"
     },
     {
       "type": "Feature",
@@ -3045,6 +3118,7 @@
         "centuries": [
           "4"
         ],
+        "url": "https://grammateus.unige.ch/document/21601",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -3053,7 +3127,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/21601"
+      "@id": "21601_located"
     },
     {
       "type": "Feature",
@@ -3088,6 +3162,7 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/35851",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -3095,7 +3170,7 @@
         "settlement": "Hermopolis",
         "label": "Hermopolis"
       },
-      "@id": "https://grammateus.unige.ch/document/35851"
+      "@id": "35851_located"
     },
     {
       "type": "Feature",
@@ -3129,13 +3204,14 @@
         "centuries": [
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/39266",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "label": "Oxyrhynchites"
       },
-      "@id": "https://grammateus.unige.ch/document/39266"
+      "@id": "39266_located"
     },
     {
       "type": "Feature",
@@ -3171,6 +3247,7 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/34781",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -3178,7 +3255,7 @@
         "settlement": "Hermopolis",
         "label": "Hermopolis"
       },
-      "@id": "https://grammateus.unige.ch/document/34781"
+      "@id": "34781_located"
     },
     {
       "type": "Feature",
@@ -3214,6 +3291,7 @@
           "5",
           "6"
         ],
+        "url": "https://grammateus.unige.ch/document/33603",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -3221,7 +3299,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/33603"
+      "@id": "33603_located"
     },
     {
       "type": "Feature",
@@ -3255,6 +3333,7 @@
         "centuries": [
           "4"
         ],
+        "url": "https://grammateus.unige.ch/document/22518",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -3262,7 +3341,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/22518"
+      "@id": "22518_located"
     },
     {
       "type": "Feature",
@@ -3298,6 +3377,7 @@
           "7",
           "8"
         ],
+        "url": "https://grammateus.unige.ch/document/37470",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -3305,7 +3385,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/37470"
+      "@id": "37470_located"
     },
     {
       "type": "Feature",
@@ -3340,13 +3420,14 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/36197",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
         "label": "Arsinoites"
       },
-      "@id": "https://grammateus.unige.ch/document/36197"
+      "@id": "36197_located"
     },
     {
       "type": "Feature",
@@ -3380,6 +3461,7 @@
         "centuries": [
           "4"
         ],
+        "url": "https://grammateus.unige.ch/document/129799",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -3388,7 +3470,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/129799"
+      "@id": "129799_located"
     },
     {
       "type": "Feature",
@@ -3423,6 +3505,7 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/36168",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -3430,7 +3513,7 @@
         "settlement": "Aphrodites Kome",
         "label": "Aphrodites Kome"
       },
-      "@id": "https://grammateus.unige.ch/document/36168"
+      "@id": "36168_located"
     },
     {
       "type": "Feature",
@@ -3465,13 +3548,14 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/37086",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
         "label": "Arsinoites"
       },
-      "@id": "https://grammateus.unige.ch/document/37086"
+      "@id": "37086_located"
     },
     {
       "type": "Feature",
@@ -3505,6 +3589,7 @@
         "centuries": [
           "4"
         ],
+        "url": "https://grammateus.unige.ch/document/22138",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -3513,7 +3598,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/22138"
+      "@id": "22138_located"
     },
     {
       "type": "Feature",
@@ -3549,11 +3634,12 @@
           "7",
           "8"
         ],
+        "url": "https://grammateus.unige.ch/document/37290",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "label": "Unknown"
       },
-      "@id": "https://grammateus.unige.ch/document/37290"
+      "@id": "37290_unknown"
     },
     {
       "type": "Feature",
@@ -3589,6 +3675,7 @@
           "7",
           "8"
         ],
+        "url": "https://grammateus.unige.ch/document/37870",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -3596,7 +3683,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/37870"
+      "@id": "37870_located"
     },
     {
       "type": "Feature",
@@ -3632,6 +3719,7 @@
           "7",
           "8"
         ],
+        "url": "https://grammateus.unige.ch/document/37865",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -3639,7 +3727,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/37865"
+      "@id": "37865_located"
     },
     {
       "type": "Feature",
@@ -3674,11 +3762,12 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/37497",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "label": "Unknown"
       },
-      "@id": "https://grammateus.unige.ch/document/37497"
+      "@id": "37497_unknown"
     },
     {
       "type": "Feature",
@@ -3713,13 +3802,14 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/130549",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
         "label": "Arsinoites"
       },
-      "@id": "https://grammateus.unige.ch/document/130549"
+      "@id": "130549_located"
     },
     {
       "type": "Feature",
@@ -3754,13 +3844,14 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/37087",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
         "label": "Arsinoites"
       },
-      "@id": "https://grammateus.unige.ch/document/37087"
+      "@id": "37087_located"
     },
     {
       "type": "Feature",
@@ -3795,13 +3886,14 @@
           "5",
           "6"
         ],
+        "url": "https://grammateus.unige.ch/document/172220",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "label": "Oxyrhynchites"
       },
-      "@id": "https://grammateus.unige.ch/document/172220"
+      "@id": "172220_located"
     },
     {
       "type": "Feature",
@@ -3836,6 +3928,7 @@
           "4",
           "5"
         ],
+        "url": "https://grammateus.unige.ch/document/33591",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -3843,7 +3936,7 @@
         "settlement": "Karanis",
         "label": "Karanis"
       },
-      "@id": "https://grammateus.unige.ch/document/33591"
+      "@id": "33591_located"
     },
     {
       "type": "Feature",
@@ -3879,13 +3972,14 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/92439",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
         "label": "\u00c4gypten"
       },
-      "@id": "https://grammateus.unige.ch/document/92439"
+      "@id": "92439_located"
     },
     {
       "type": "Feature",
@@ -3919,6 +4013,7 @@
         "centuries": [
           "4"
         ],
+        "url": "https://grammateus.unige.ch/document/17433",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -3926,7 +4021,7 @@
         "nome": "Oxyrhynchites",
         "label": "Oxyrhynchites"
       },
-      "@id": "https://grammateus.unige.ch/document/17433"
+      "@id": "17433_located"
     },
     {
       "type": "Feature",
@@ -3963,11 +4058,12 @@
           "7",
           "8"
         ],
+        "url": "https://grammateus.unige.ch/document/35043",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "label": "Unknown"
       },
-      "@id": "https://grammateus.unige.ch/document/35043"
+      "@id": "35043_unknown"
     },
     {
       "type": "Feature",
@@ -4001,13 +4097,14 @@
         "centuries": [
           "5"
         ],
+        "url": "https://grammateus.unige.ch/document/133452",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "label": "Oxyrhynchites"
       },
-      "@id": "https://grammateus.unige.ch/document/133452"
+      "@id": "133452_located"
     },
     {
       "type": "Feature",
@@ -4042,6 +4139,7 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/36210",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -4049,7 +4147,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/36210"
+      "@id": "36210_located"
     },
     {
       "type": "Feature",
@@ -4085,6 +4183,7 @@
           "7",
           "8"
         ],
+        "url": "https://grammateus.unige.ch/document/37866",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -4092,7 +4191,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/37866"
+      "@id": "37866_located"
     },
     {
       "type": "Feature",
@@ -4127,13 +4226,14 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/37480",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
         "label": "Arsinoites"
       },
-      "@id": "https://grammateus.unige.ch/document/37480"
+      "@id": "37480_located"
     },
     {
       "type": "Feature",
@@ -4167,6 +4267,7 @@
         "centuries": [
           "4"
         ],
+        "url": "https://grammateus.unige.ch/document/32513",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -4174,7 +4275,7 @@
         "settlement": "Pesla",
         "label": "\u00c4gypten"
       },
-      "@id": "https://grammateus.unige.ch/document/32513"
+      "@id": "32513_located"
     },
     {
       "type": "Feature",
@@ -4209,12 +4310,13 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/36013",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "settlement": "Apollonopolis Heptakomias",
         "label": "Apollonopolis Heptakomias"
       },
-      "@id": "https://grammateus.unige.ch/document/36013"
+      "@id": "36013_located"
     },
     {
       "type": "Feature",
@@ -4249,11 +4351,12 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/36198",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "label": "Unknown"
       },
-      "@id": "https://grammateus.unige.ch/document/36198"
+      "@id": "36198_unknown"
     },
     {
       "type": "Feature",
@@ -4288,11 +4391,12 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/37292",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "label": "Unknown"
       },
-      "@id": "https://grammateus.unige.ch/document/37292"
+      "@id": "37292_unknown"
     },
     {
       "type": "Feature",
@@ -4327,13 +4431,14 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/37084",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
         "label": "Arsinoites"
       },
-      "@id": "https://grammateus.unige.ch/document/37084"
+      "@id": "37084_located"
     },
     {
       "type": "Feature",
@@ -4368,13 +4473,14 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/37090",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
         "label": "Arsinoites"
       },
-      "@id": "https://grammateus.unige.ch/document/37090"
+      "@id": "37090_located"
     },
     {
       "type": "Feature",
@@ -4409,11 +4515,12 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/36188",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "label": "Unknown"
       },
-      "@id": "https://grammateus.unige.ch/document/36188"
+      "@id": "36188_unknown"
     },
     {
       "type": "Feature",
@@ -4448,11 +4555,12 @@
           "5",
           "6"
         ],
+        "url": "https://grammateus.unige.ch/document/35495",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "label": "Unknown"
       },
-      "@id": "https://grammateus.unige.ch/document/35495"
+      "@id": "35495_unknown"
     },
     {
       "type": "Feature",
@@ -4486,13 +4594,14 @@
         "centuries": [
           "4"
         ],
+        "url": "https://grammateus.unige.ch/document/92762",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
         "label": "Arsinoites"
       },
-      "@id": "https://grammateus.unige.ch/document/92762"
+      "@id": "92762_located"
     },
     {
       "type": "Feature",
@@ -4528,13 +4637,14 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/128705",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
         "label": "\u00c4gypten"
       },
-      "@id": "https://grammateus.unige.ch/document/128705"
+      "@id": "128705_located"
     },
     {
       "type": "Feature",
@@ -4568,6 +4678,7 @@
         "centuries": [
           "4"
         ],
+        "url": "https://grammateus.unige.ch/document/32516",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -4576,7 +4687,7 @@
         "settlement": "Pesla",
         "label": "\u00c4gypten"
       },
-      "@id": "https://grammateus.unige.ch/document/32516"
+      "@id": "32516_located"
     },
     {
       "type": "Feature",
@@ -4610,6 +4721,7 @@
         "centuries": [
           "4"
         ],
+        "url": "https://grammateus.unige.ch/document/15778",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -4617,7 +4729,7 @@
         "settlement": "Pesla",
         "label": "\u00c4gypten"
       },
-      "@id": "https://grammateus.unige.ch/document/15778"
+      "@id": "15778_located"
     },
     {
       "type": "Feature",
@@ -4651,6 +4763,7 @@
         "centuries": [
           "5"
         ],
+        "url": "https://grammateus.unige.ch/document/21813",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
@@ -4658,7 +4771,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/21813"
+      "@id": "21813_located"
     },
     {
       "type": "Feature",
@@ -4693,12 +4806,13 @@
           "5",
           "6"
         ],
+        "url": "https://grammateus.unige.ch/document/35669",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "settlement": "Hermopolis",
         "label": "Hermopolis"
       },
-      "@id": "https://grammateus.unige.ch/document/35669"
+      "@id": "35669_located"
     },
     {
       "type": "Feature",
@@ -4733,11 +4847,12 @@
           "5",
           "6"
         ],
+        "url": "https://grammateus.unige.ch/document/35119",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "label": "Unknown"
       },
-      "@id": "https://grammateus.unige.ch/document/35119"
+      "@id": "35119_unknown"
     },
     {
       "type": "Feature",
@@ -4771,13 +4886,14 @@
         "centuries": [
           "6"
         ],
+        "url": "https://grammateus.unige.ch/document/18048",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "Thracia",
         "settlement": "Konstantinopel",
         "label": "Konstantinopel"
       },
-      "@id": "https://grammateus.unige.ch/document/18048"
+      "@id": "18048_composed"
     },
     {
       "type": "Feature",
@@ -4811,6 +4927,7 @@
         "centuries": [
           "6"
         ],
+        "url": "https://grammateus.unige.ch/document/18048",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -4818,7 +4935,7 @@
         "settlement": "Aphrodites Kome",
         "label": "Aphrodites Kome"
       },
-      "@id": "https://grammateus.unige.ch/document/18048"
+      "@id": "18048_found"
     },
     {
       "type": "Feature",
@@ -4853,13 +4970,14 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/37083",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
         "label": "Arsinoites"
       },
-      "@id": "https://grammateus.unige.ch/document/37083"
+      "@id": "37083_located"
     },
     {
       "type": "Feature",
@@ -4894,13 +5012,14 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/130559",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
         "label": "Arsinoites"
       },
-      "@id": "https://grammateus.unige.ch/document/130559"
+      "@id": "130559_located"
     },
     {
       "type": "Feature",
@@ -4935,6 +5054,7 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/36809",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -4942,7 +5062,7 @@
         "settlement": "Aphrodites Kome",
         "label": "Aphrodites Kome"
       },
-      "@id": "https://grammateus.unige.ch/document/36809"
+      "@id": "36809_located"
     },
     {
       "type": "Feature",
@@ -4977,13 +5097,14 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/36835",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
         "label": "Arsinoites"
       },
-      "@id": "https://grammateus.unige.ch/document/36835"
+      "@id": "36835_located"
     },
     {
       "type": "Feature",
@@ -5019,13 +5140,14 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/128706",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
         "label": "\u00c4gypten"
       },
-      "@id": "https://grammateus.unige.ch/document/128706"
+      "@id": "128706_located"
     },
     {
       "type": "Feature",
@@ -5060,6 +5182,7 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/37134",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -5067,7 +5190,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/37134"
+      "@id": "37134_located"
     },
     {
       "type": "Feature",
@@ -5102,6 +5225,7 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/37849",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -5109,7 +5233,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/37849"
+      "@id": "37849_located"
     },
     {
       "type": "Feature",
@@ -5145,13 +5269,14 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/128707",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
         "label": "\u00c4gypten"
       },
-      "@id": "https://grammateus.unige.ch/document/128707"
+      "@id": "128707_located"
     },
     {
       "type": "Feature",
@@ -5186,6 +5311,7 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/36808",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -5193,7 +5319,7 @@
         "settlement": "Aphrodites Kome",
         "label": "Aphrodites Kome"
       },
-      "@id": "https://grammateus.unige.ch/document/36808"
+      "@id": "36808_located"
     },
     {
       "type": "Feature",
@@ -5227,13 +5353,14 @@
         "centuries": [
           "6"
         ],
+        "url": "https://grammateus.unige.ch/document/114310",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "label": "Oxyrhynchites"
       },
-      "@id": "https://grammateus.unige.ch/document/114310"
+      "@id": "114310_located"
     },
     {
       "type": "Feature",
@@ -5267,6 +5394,7 @@
         "centuries": [
           "6"
         ],
+        "url": "https://grammateus.unige.ch/document/19132",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -5274,7 +5402,7 @@
         "settlement": "Antinoopolis",
         "label": "Antinoopolis"
       },
-      "@id": "https://grammateus.unige.ch/document/19132"
+      "@id": "19132_located"
     },
     {
       "type": "Feature",
@@ -5308,11 +5436,12 @@
         "centuries": [
           "4"
         ],
+        "url": "https://grammateus.unige.ch/document/17679",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "label": "Unknown"
       },
-      "@id": "https://grammateus.unige.ch/document/17679"
+      "@id": "17679_unknown"
     },
     {
       "type": "Feature",
@@ -5346,6 +5475,7 @@
         "centuries": [
           "6"
         ],
+        "url": "https://grammateus.unige.ch/document/22007",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -5353,7 +5483,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/22007"
+      "@id": "22007_located"
     },
     {
       "type": "Feature",
@@ -5389,6 +5519,7 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/35590",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -5396,7 +5527,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/35590"
+      "@id": "35590_located"
     },
     {
       "type": "Feature",
@@ -5431,6 +5562,7 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/37146",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -5438,7 +5570,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/37146"
+      "@id": "37146_located"
     },
     {
       "type": "Feature",
@@ -5473,13 +5605,14 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/36264",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
         "label": "Arsinoites"
       },
-      "@id": "https://grammateus.unige.ch/document/36264"
+      "@id": "36264_located"
     },
     {
       "type": "Feature",
@@ -5513,6 +5646,7 @@
         "centuries": [
           "5"
         ],
+        "url": "https://grammateus.unige.ch/document/15899",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -5521,7 +5655,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/15899"
+      "@id": "15899_located"
     },
     {
       "type": "Feature",
@@ -5557,6 +5691,7 @@
           "5",
           "6"
         ],
+        "url": "https://grammateus.unige.ch/document/33686",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -5564,7 +5699,7 @@
         "nome": "Hermopolites",
         "label": "\u00c4gypten"
       },
-      "@id": "https://grammateus.unige.ch/document/33686"
+      "@id": "33686_located"
     },
     {
       "type": "Feature",
@@ -5598,6 +5733,7 @@
         "centuries": [
           "6"
         ],
+        "url": "https://grammateus.unige.ch/document/19133",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -5605,7 +5741,7 @@
         "settlement": "Antinoopolis",
         "label": "Antinoopolis"
       },
-      "@id": "https://grammateus.unige.ch/document/19133"
+      "@id": "19133_located"
     },
     {
       "type": "Feature",
@@ -5640,6 +5776,7 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/36846",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -5647,7 +5784,7 @@
         "settlement": "Koma",
         "label": "Koma"
       },
-      "@id": "https://grammateus.unige.ch/document/36846"
+      "@id": "36846_located"
     },
     {
       "type": "Feature",
@@ -5681,6 +5818,7 @@
         "centuries": [
           "4"
         ],
+        "url": "https://grammateus.unige.ch/document/17308",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -5688,7 +5826,7 @@
         "settlement": "Antinoopolis",
         "label": "Antinoopolis"
       },
-      "@id": "https://grammateus.unige.ch/document/17308"
+      "@id": "17308_located"
     },
     {
       "type": "Feature",
@@ -5722,13 +5860,14 @@
         "centuries": [
           "5"
         ],
+        "url": "https://grammateus.unige.ch/document/35181",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
         "label": "Arsinoites"
       },
-      "@id": "https://grammateus.unige.ch/document/35181"
+      "@id": "35181_located"
     },
     {
       "type": "Feature",
@@ -5764,13 +5903,14 @@
           "7",
           "8"
         ],
+        "url": "https://grammateus.unige.ch/document/38314",
         "type": "Transmission of Information ",
         "subtype": "Warrant (TI)",
         "region": "\u00c4gypten",
         "nome": "Hermopolites",
         "label": "\u00c4gypten"
       },
-      "@id": "https://grammateus.unige.ch/document/38314"
+      "@id": "38314_located"
     },
     {
       "type": "Feature",
@@ -5804,12 +5944,13 @@
         "centuries": [
           "4"
         ],
+        "url": "https://grammateus.unige.ch/document/21123",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "settlement": "Hermopolis",
         "label": "Hermopolis"
       },
-      "@id": "https://grammateus.unige.ch/document/21123"
+      "@id": "21123_located"
     },
     {
       "type": "Feature",
@@ -5843,13 +5984,14 @@
         "centuries": [
           "6"
         ],
+        "url": "https://grammateus.unige.ch/document/114307",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "label": "Oxyrhynchites"
       },
-      "@id": "https://grammateus.unige.ch/document/114307"
+      "@id": "114307_located"
     },
     {
       "type": "Feature",
@@ -5883,6 +6025,7 @@
         "centuries": [
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/22010",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -5890,7 +6033,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/22010"
+      "@id": "22010_located"
     },
     {
       "type": "Feature",
@@ -5925,6 +6068,7 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/37145",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -5932,7 +6076,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/37145"
+      "@id": "37145_located"
     },
     {
       "type": "Feature",
@@ -5967,6 +6111,7 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/37144",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -5974,7 +6119,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/37144"
+      "@id": "37144_located"
     },
     {
       "type": "Feature",
@@ -6009,6 +6154,7 @@
           "1",
           "2"
         ],
+        "url": "https://grammateus.unige.ch/document/316224",
         "type": "Transmission of Information ",
         "subtype": "Warrant (TI)",
         "region": "\u00c4gypten",
@@ -6016,7 +6162,7 @@
         "settlement": "Ptolemais Hormu",
         "label": "Ptolemais Hormu"
       },
-      "@id": "https://grammateus.unige.ch/document/316224"
+      "@id": "316224_located"
     },
     {
       "type": "Feature",
@@ -6051,12 +6197,13 @@
           "4",
           "5"
         ],
+        "url": "https://grammateus.unige.ch/document/32819",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
         "label": "Unknown"
       },
-      "@id": "https://grammateus.unige.ch/document/32819"
+      "@id": "32819_unknown"
     },
     {
       "type": "Feature",
@@ -6091,6 +6238,7 @@
           "5",
           "6"
         ],
+        "url": "https://grammateus.unige.ch/document/35596",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "region": "\u00c4gypten",
@@ -6098,7 +6246,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/35596"
+      "@id": "35596_located"
     },
     {
       "type": "Feature",
@@ -6133,13 +6281,14 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/36262",
         "type": "Transmission of Information ",
         "subtype": "Business Note ",
         "region": "\u00c4gypten",
         "nome": "Arsinoites",
         "label": "Arsinoites"
       },
-      "@id": "https://grammateus.unige.ch/document/36262"
+      "@id": "36262_located"
     },
     {
       "type": "Feature",
@@ -6173,6 +6322,7 @@
         "centuries": [
           "6"
         ],
+        "url": "https://grammateus.unige.ch/document/33680",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -6180,7 +6330,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/33680"
+      "@id": "33680_located"
     },
     {
       "type": "Feature",
@@ -6214,6 +6364,7 @@
         "centuries": [
           "4"
         ],
+        "url": "https://grammateus.unige.ch/document/17481",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -6221,7 +6372,7 @@
         "nome": "Oxyrhynchites",
         "label": "Oxyrhynchites"
       },
-      "@id": "https://grammateus.unige.ch/document/17481"
+      "@id": "17481_located"
     },
     {
       "type": "Feature",
@@ -6256,6 +6407,7 @@
           "4",
           "5"
         ],
+        "url": "https://grammateus.unige.ch/document/32365",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -6263,7 +6415,7 @@
         "nome": "Hermopolites",
         "label": "\u00c4gypten"
       },
-      "@id": "https://grammateus.unige.ch/document/32365"
+      "@id": "32365_located"
     },
     {
       "type": "Feature",
@@ -6298,13 +6450,14 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/35967",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
         "nome": "Oxyrhynchites",
         "label": "Oxyrhynchites"
       },
-      "@id": "https://grammateus.unige.ch/document/35967"
+      "@id": "35967_located"
     },
     {
       "type": "Feature",
@@ -6340,6 +6493,7 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/35594",
         "type": "Epistolary Exchange ",
         "subtype": "Official Letter ",
         "region": "\u00c4gypten",
@@ -6347,7 +6501,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/35594"
+      "@id": "35594_located"
     },
     {
       "type": "Feature",
@@ -6381,6 +6535,7 @@
         "centuries": [
           "4"
         ],
+        "url": "https://grammateus.unige.ch/document/22003",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -6389,7 +6544,7 @@
         "settlement": "Oxyrhynchos",
         "label": "Oxyrhynchos"
       },
-      "@id": "https://grammateus.unige.ch/document/22003"
+      "@id": "22003_located"
     },
     {
       "type": "Feature",
@@ -6424,6 +6579,7 @@
           "6",
           "7"
         ],
+        "url": "https://grammateus.unige.ch/document/37234",
         "type": "Epistolary Exchange ",
         "subtype": "Private Letter ",
         "region": "\u00c4gypten",
@@ -6431,7 +6587,7 @@
         "settlement": "Aphrodites Kome",
         "label": "Aphrodites Kome"
       },
-      "@id": "https://grammateus.unige.ch/document/37234"
+      "@id": "37234_located"
     },
     {
       "type": "Feature",
@@ -6466,6 +6622,7 @@
           "5",
           "6"
         ],
+        "url": "https://grammateus.unige.ch/document/35190",
         "type": "Epistolary Exchange ",
         "subtype": "Business Letter ",
         "variation": "Order to Pay ",
@@ -6473,7 +6630,7 @@
         "nome": "Herakleopolites",
         "label": "Herakleopolites"
       },
-      "@id": "https://grammateus.unige.ch/document/35190"
+      "@id": "35190_located"
     }
   ]
 }
