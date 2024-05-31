@@ -34,3 +34,6 @@ const Hover = props => {
 }
 
 export default Hover;
+/*
+ * line 24 modified by Ouidir Rayan & Dejean Adrien in 2024.
+ */

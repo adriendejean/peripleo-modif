@@ -271,3 +271,6 @@ const ItemListCard = props => {
 }
 
 export default ItemListCard;
+/*
+ * line 86, 224 modified by Ouidir Rayan & Dejean Adrien in 2024.
+ */
